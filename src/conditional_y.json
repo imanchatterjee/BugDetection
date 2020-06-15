@@ -1,0 +1,1626 @@
+[
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:factory",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 25 - 32"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:window",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 38 - 38"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 109 - 115"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "LIT:this",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 112 - 112"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:len",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 160 - 160"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 161 - 161"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:src",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 219 - 219"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:src",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 222 - 222"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 313 - 315"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 402 - 402"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 412 - 413"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 424 - 424"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:escaped",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 694 - 700"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:fromCharCode",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 696 - 700"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1082.js : 713 - 728"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1082.js : 737 - 737"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 931 - 931"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 999 - 999"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1009 - 1009"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1088 - 1088"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 1112 - 1135"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 1242 - 1261"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:documentElement",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1244 - 1244"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:contains",
+    "parent": "LogicalExpression",
+    "grandParent": "UnaryExpression",
+    "src": "data/js/programs_50/file1082.js : 1247 - 1249"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 1267 - 1361"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:compareDocumentPosition",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 1283 - 1287"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1302 - 1304"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1307 - 1307"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1325 - 1331"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 1326 - 1331"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1327 - 1331"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1328 - 1331"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1329 - 1331"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:siblingCheck",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1353 - 1360"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 1358 - 1360"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1359 - 1360"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:fn",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1415 - 1417"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:val",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1419 - 1425"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:getAttribute",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 1421 - 1425"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:value",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1423 - 1425"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "UnaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 1555 - 1555"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1599 - 1603"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1629 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 1630 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1631 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1632 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1633 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1634 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 1635 - 1636"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1645 - 1726"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:nextSibling",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1654 - 1654"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1666 - 1666"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:firstChild",
+    "parent": "ArrayExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 1676 - 1676"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1082.js : 1709 - 1709"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:markFunction",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1748 - 1760"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:markFunction",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1777 - 1794"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:lang",
+    "parent": "AssignmentExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1082.js : 1825 - 1827"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ArrayExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 1929 - 1929"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1949 - 1949"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 1957 - 1957"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:0",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 1987 - 1987"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:length",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2040 - 2045"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:error",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2042 - 2045"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2063 - 2108"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2112 - 2122"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1082.js : 2160 - 2160"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:condense",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 2163 - 2165"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 2167 - 2176"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 2169 - 2175"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:preFilter",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 2169 - 2169"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:call",
+    "parent": "AssignmentExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1082.js : 2216 - 2216"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:splice",
+    "parent": "CallExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 2226 - 2228"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 2244 - 2244"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:matchContext",
+    "parent": "LogicalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2255 - 2257"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:*",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1082.js : 2279 - 2279"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "AssignmentExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 2307 - 2307"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:markFunction",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2388 - 2390"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:0",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 2451 - 2451"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2521 - 2521"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:toLowerCase",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2548 - 2551"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:value",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2549 - 2551"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2617 - 2621"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2618 - 2618"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:unique",
+    "parent": "CallExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 2646 - 2646"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 2647 - 2647"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:jQuery",
+    "parent": "CallExpression",
+    "grandParent": "MemberExpression",
+    "src": "data/js/programs_50/file1082.js : 2662 - 2664"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:context",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 2705 - 2705"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1082.js : 2711 - 2711"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:ready",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2767 - 2770"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:jQuery",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 2846 - 2848"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1082.js : 2853 - 2858"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:unique",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2866 - 2866"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:length",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2875 - 2875"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:elem",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2887 - 2887"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:prevObject",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 2900 - 2901"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:parent",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 2914 - 2914"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3018 - 3020"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3122 - 3122"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:slice",
+    "parent": "ArrayExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 3155 - 3155"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:promise",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3211 - 3211"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3211 - 3211"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:extend",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3221 - 3221"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:promise",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3249 - 3249"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:length",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 3274 - 3274"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:subordinate",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 3277 - 3277"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:call",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3283 - 3283"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:readyWait",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3352 - 3352"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:value",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3452 - 3452"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:elems",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3457 - 3463"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:call",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 3461 - 3463"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:fn",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 3463 - 3463"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:cache",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3568 - 3569"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:stored",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3589 - 3590"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:value",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3603 - 3603"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3632 - 3633"
+  },
+  {
+    "consequent_type": "boolean",
+    "consequent_name": "LIT:true",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 3685 - 3691"
+  },
+  {
+    "consequent_type": "boolean",
+    "consequent_name": "LIT:false",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 3686 - 3691"
+  },
+  {
+    "consequent_type": "null",
+    "consequent_name": "LIT:null",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 3687 - 3691"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 3689 - 3691"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:parseJSON",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 3690 - 3691"
+  },
+  {
+    "consequent_type": "object",
+    "consequent_name": "LIT:this",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 3906 - 3917"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:apply",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 4056 - 4057"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:delegateType",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 4078 - 4078"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:delegateType",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 4158 - 4158"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:type",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 4204 - 4204"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:split",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 4205 - 4205"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:event",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4228 - 4230"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:2",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4233 - 4233"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4235 - 4237"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4246 - 4248"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:bubbleType",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4279 - 4281"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4414 - 4416"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:charCode",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4448 - 4448"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4474 - 4474"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:3",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 4474 - 4474"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:2",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 4474 - 4474"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:mouseHooks",
+    "parent": "AssignmentExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 4494 - 4496"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:keyHooks",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 4495 - 4496"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:concat",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4498 - 4498"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:filter",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 4520 - 4520"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:returnTrue",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4617 - 4622"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 4800 - 4800"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 4874 - 4879"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:content",
+    "parent": "CallExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1082.js : 4875 - 4875"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:getElementsByTagName",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 4946 - 4948"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:querySelectorAll",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 4947 - 4948"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:merge",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 4950 - 4952"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5029 - 5029"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:text",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5137 - 5143"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:filter",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 5183 - 5183"
+  },
+  {
+    "consequent_type": "boolean",
+    "consequent_name": "LIT:false",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5221 - 5221"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:dataAndEvents",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5222 - 5222"
+  },
+  {
+    "consequent_type": "object",
+    "consequent_name": "LIT:this",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5283 - 5283"
+  },
+  {
+    "consequent_type": "object",
+    "consequent_name": "LIT:this",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5392 - 5392"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:display",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 5418 - 5422"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5515 - 5519"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5681 - 5684"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:4",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 5688 - 5692"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:border",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 5688 - 5688"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 5692 - 5692"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:offsetWidth",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 5730 - 5730"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:border",
+    "parent": "LogicalExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1082.js : 5763 - 5763"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:display",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5803 - 5803"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 5817 - 5817"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:1",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5833 - 5833"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5953 - 5953"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:swap",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 5965 - 5969"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:augmentWidthOrHeight",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 5975 - 5982"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:split",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 6012 - 6012"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:style",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6046 - 6048"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:show",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6059 - 6059"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 6087 - 6087"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:get",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6092 - 6094"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:0",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6140 - 6140"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "LogicalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 6195 - 6195"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6232 - 6234"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6257 - 6257"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:hide",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1082.js : 6356 - 6356"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:dataShow",
+    "parent": "CallExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 6398 - 6398"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:1",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6404 - 6404"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:length",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 6501 - 6501"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:extend",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 6583 - 6588"
+  },
+  {
+    "consequent_type": "number",
+    "consequent_name": "LIT:0",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6590 - 6591"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:duration",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 6590 - 6591"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:speeds",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1082.js : 6591 - 6591"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:each",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6637 - 6639"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:length",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 6701 - 6701"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:apply",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6737 - 6739"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6812 - 6812"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:boolHook",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 6888 - 6888"
+  },
+  {
+    "consequent_type": "undefined",
+    "consequent_name": "ID:undefined",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 6911 - 6913"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:toLowerCase",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 6977 - 6979"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:ret",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7027 - 7029"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:ret",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7032 - 7034"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:tabIndex",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7041 - 7043"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:replace",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 7102 - 7104"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:replace",
+    "parent": "LogicalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 7144 - 7146"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:trim",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 7159 - 7159"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:addClass",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7174 - 7174"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 7211 - 7211"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:replace",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7250 - 7254"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 7254 - 7254"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7284 - 7284"
+  },
+  {
+    "consequent_type": "null",
+    "consequent_name": "LIT:null",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 7306 - 7306"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 7307 - 7307"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:max",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1082.js : 7308 - 7310"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:index",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 7310 - 7310"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1082.js : 7319 - 7319"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:on",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7374 - 7374"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:on",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7391 - 7393"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:off",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7414 - 7414"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:i",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1082.js : 7451 - 7451"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:value",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1082.js : 7474 - 7474"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1082.js : 7474 - 7474"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:makeArray",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7510 - 7510"
+  },
+  {
+    "consequent_type": "null",
+    "consequent_name": "LIT:null",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7523 - 7529"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:map",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 7525 - 7529"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:margin",
+    "parent": "LogicalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1082.js : 7581 - 7581"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:css",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1082.js : 7606 - 7611"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:margin",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1082.js : 7612 - 7612"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:detachDelegate",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1107.js : 283 - 283"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:emitFacade",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1107.js : 313 - 315"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:delegate",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1107.js : 469 - 469"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:query",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1107.js : 473 - 475"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:handles",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1107.js : 507 - 509"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:query",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1107.js : 603 - 604"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1108.js : 82 - 82"
+  },
+  {
+    "consequent_type": "boolean",
+    "consequent_name": "LIT:true",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1108.js : 283 - 283"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "blank",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1108.js : 712 - 712"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:globalValue",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1108.js : 830 - 830"
+  },
+  {
+    "consequent_type": "unknown",
+    "consequent_name": "ID:converter",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1108.js : 834 - 834"
+  },
+  {
+    "consequent_type": "string",
+    "consequent_name": "LIT:wss",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1136.js : 93 - 93"
+  }
+]

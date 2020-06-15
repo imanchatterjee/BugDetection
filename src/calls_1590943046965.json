@@ -1,0 +1,5278 @@
+[
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20020400016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20020570010",
+      "20020690008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 66 - 66",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20030250016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20030420010",
+      "20030540008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 95 - 95",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20050030016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20050200010",
+      "20050320008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 127 - 127",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20087730016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20087900010",
+      "20088020008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 169 - 169",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20101980016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20102150010",
+      "20102270008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 198 - 198",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createAPIRequest",
+    "calleeLocation": "20140350016",
+    "arguments": [
+      "ID:parameters",
+      "ID:callback"
+    ],
+    "argumentLocations": [
+      "20140520010",
+      "20140640008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1084.js : 240 - 240",
+    "filename": "data/js/programs_50/file1084.js"
+  },
+  {
+    "base": "ID:encoded",
+    "callee": "ID:replace",
+    "calleeLocation": "50025770007",
+    "arguments": [
+      "LIT:/=+$/",
+      "LIT:"
+    ],
+    "argumentLocations": [
+      "50025850005",
+      "50025920002"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1093.js : 62 - 62",
+    "filename": "data/js/programs_50/file1093.js"
+  },
+  {
+    "base": "ID:arr",
+    "callee": "ID:subarray",
+    "calleeLocation": "50043990008",
+    "arguments": [
+      "LIT:0",
+      "ID:iOut"
+    ],
+    "argumentLocations": [
+      "50044080001",
+      "50044110004"
+    ],
+    "argumentTypes": [
+      "number",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1093.js : 116 - 116",
+    "filename": "data/js/programs_50/file1093.js"
+  },
+  {
+    "base": "ID:chars",
+    "callee": "ID:replace",
+    "calleeLocation": "50049020007",
+    "arguments": [
+      "LIT:/[-[\\]{}()*+?.,\\\\^$|#\\s]/g",
+      "LIT:\\$&"
+    ],
+    "argumentLocations": [
+      "50049100026",
+      "50049380006"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1093.js : 134 - 134",
+    "filename": "data/js/programs_50/file1093.js"
+  },
+  {
+    "base": "ID:str",
+    "callee": "ID:replace",
+    "calleeLocation": "50070620007",
+    "arguments": [
+      "LIT:/&/g",
+      "LIT:&-"
+    ],
+    "argumentLocations": [
+      "50070700004",
+      "50070760004"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1093.js : 189 - 189",
+    "filename": "data/js/programs_50/file1093.js"
+  },
+  {
+    "base": "ID:chunk",
+    "callee": "ID:replace",
+    "calleeLocation": "50077230007",
+    "arguments": [
+      "LIT:/,/g",
+      "LIT:/"
+    ],
+    "argumentLocations": [
+      "50077310004",
+      "50077370003"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1093.js : 203 - 203",
+    "filename": "data/js/programs_50/file1093.js"
+  },
+  {
+    "base": "ID:Date",
+    "callee": "ID:apply",
+    "calleeLocation": "60014480005",
+    "arguments": [
+      "LIT:this",
+      "ID:arguments"
+    ],
+    "argumentLocations": [
+      "60014540004",
+      "60014600009"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1094.js : 36 - 36",
+    "filename": "data/js/programs_50/file1094.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70009490003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定最大值，最小值,不指定interval"
+    ],
+    "argumentLocations": [
+      "70009530009",
+      "70009630003",
+      "70009670023"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 35 - 35",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "ID:Date",
+    "callee": "ID:UTC",
+    "calleeLocation": "70010640003",
+    "arguments": [
+      "LIT:2010",
+      "LIT:1",
+      "LIT:1"
+    ],
+    "argumentLocations": [
+      "70010680004",
+      "70010730001",
+      "70010750001"
+    ],
+    "argumentTypes": [
+      "number",
+      "number",
+      "number"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1096.js : 40 - 40",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "ID:Date",
+    "callee": "ID:UTC",
+    "calleeLocation": "70010830003",
+    "arguments": [
+      "LIT:2019",
+      "LIT:12",
+      "LIT:31"
+    ],
+    "argumentLocations": [
+      "70010870004",
+      "70010920002",
+      "70010950002"
+    ],
+    "argumentTypes": [
+      "number",
+      "number",
+      "number"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1096.js : 40 - 40",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70011980003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据，不指定interval"
+    ],
+    "argumentLocations": [
+      "70012020004",
+      "70012070003",
+      "70012110018"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 43 - 43",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70014470003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据，,测试月，不指定interval"
+    ],
+    "argumentLocations": [
+      "70014510004",
+      "70014560003",
+      "70014600023"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 50 - 50",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70017060003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据，,测试月小于结束月，不指定interval"
+    ],
+    "argumentLocations": [
+      "70017100004",
+      "70017150003",
+      "70017190028"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 58 - 58",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70019760003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据,测试天，不指定interval"
+    ],
+    "argumentLocations": [
+      "70019800004",
+      "70019850003",
+      "70019890022"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 67 - 67",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70022270003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据,测试天，不指定interval"
+    ],
+    "argumentLocations": [
+      "70022310004",
+      "70022360003",
+      "70022400022"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 75 - 75",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:log",
+    "calleeLocation": "70025740003",
+    "arguments": [
+      "ID:data",
+      "ID:rst",
+      "LIT:指定数据,测试天，不指定interval"
+    ],
+    "argumentLocations": [
+      "70025780004",
+      "70025830003",
+      "70025870022"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:data",
+      "ID:rst",
+      "ID:title"
+    ],
+    "src": "data/js/programs_50/file1096.js : 90 - 90",
+    "filename": "data/js/programs_50/file1096.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90001560002",
+    "arguments": [
+      "ID:tooltip",
+      "LIT:popover method is defined"
+    ],
+    "argumentLocations": [
+      "90001590011",
+      "90001720027"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 7 - 7",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:equals",
+    "calleeLocation": "90008980006",
+    "arguments": [
+      "ID:attr",
+      "LIT:Another tooltip",
+      "LIT:original title preserved in data attribute"
+    ],
+    "argumentLocations": [
+      "90009050035",
+      "90009420017",
+      "90009610044"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 26 - 26",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90013310002",
+    "arguments": [
+      "ID:is",
+      "LIT:has correct classes applied"
+    ],
+    "argumentLocations": [
+      "90013340035",
+      "90013710029"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 36 - 36",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90016950002",
+    "arguments": [
+      "ID:length",
+      "LIT:b tag was inserted"
+    ],
+    "argumentLocations": [
+      "90016980022",
+      "90017220020"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 46 - 46",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90021830002",
+    "arguments": [
+      "ID:hasClass",
+      "LIT:custom class is present"
+    ],
+    "argumentLocations": [
+      "90021860036",
+      "90022240025"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 57 - 57",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90047150002",
+    "arguments": [
+      "ID:is",
+      "LIT:tooltip has faded in"
+    ],
+    "argumentLocations": [
+      "90047180028",
+      "90047480022"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 126 - 126",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90053000002",
+    "arguments": [
+      "ID:isHTML",
+      "LIT:correctly detected html"
+    ],
+    "argumentLocations": [
+      "90053030059",
+      "90053640025"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 140 - 140",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90055180002",
+    "arguments": [
+      "ID:isHTML",
+      "LIT:correctly detected html"
+    ],
+    "argumentLocations": [
+      "90055210072",
+      "90055950025"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 144 - 144",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90057450002",
+    "arguments": [
+      "ID:isHTML",
+      "LIT:correctly detected html"
+    ],
+    "argumentLocations": [
+      "90057480072",
+      "90058220025"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 148 - 148",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:ok",
+    "calleeLocation": "90059570002",
+    "arguments": [
+      "ID:isHTML",
+      "LIT:correctly detected html"
+    ],
+    "argumentLocations": [
+      "90059600059",
+      "90060210025"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1099.js : 152 - 152",
+    "filename": "data/js/programs_50/file1099.js"
+  },
+  {
+    "base": "ID:Loader",
+    "callee": "ID:setPath",
+    "calleeLocation": "150006880007",
+    "arguments": [
+      "LIT:Ext.ux",
+      "LIT:../ux/"
+    ],
+    "argumentLocations": [
+      "150006960008",
+      "150007060008"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1110.js : 17 - 17",
+    "filename": "data/js/programs_50/file1110.js"
+  },
+  {
+    "base": "ID:style",
+    "callee": "ID:setProperty",
+    "calleeLocation": "190006720011",
+    "arguments": [
+      "ID:s",
+      "ID:styles",
+      "LIT:null"
+    ],
+    "argumentLocations": [
+      "190006840001",
+      "190006870009",
+      "190006980004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "null"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1116.js : 24 - 24",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:fwApplyStyles",
+    "calleeLocation": "190104130013",
+    "arguments": [
+      "ID:fwUl",
+      "ID:fwStyleUl"
+    ],
+    "argumentLocations": [
+      "190104270004",
+      "190104330009"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:element",
+      "ID:styles"
+    ],
+    "src": "data/js/programs_50/file1116.js : 184 - 184",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:fwApplyStyles",
+    "calleeLocation": "190113050013",
+    "arguments": [
+      "ID:fwLink",
+      "ID:fwStyleA"
+    ],
+    "argumentLocations": [
+      "190113190006",
+      "190113270008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:element",
+      "ID:styles"
+    ],
+    "src": "data/js/programs_50/file1116.js : 210 - 210",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:fwApplyStyles",
+    "calleeLocation": "190119660013",
+    "arguments": [
+      "ID:fwLi",
+      "ID:fwStyleLi"
+    ],
+    "argumentLocations": [
+      "190119800004",
+      "190119860009"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:element",
+      "ID:styles"
+    ],
+    "src": "data/js/programs_50/file1116.js : 229 - 229",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "ID:version",
+    "callee": "ID:replace",
+    "calleeLocation": "190131470007",
+    "arguments": [
+      "LIT:/\\s*\\(.+\\)\\s*/",
+      "LIT:"
+    ],
+    "argumentLocations": [
+      "190131550014",
+      "190131710002"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1116.js : 255 - 255",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:showInfo",
+    "calleeLocation": "190132270008",
+    "arguments": [
+      "ID:fwNs",
+      "ID:version"
+    ],
+    "argumentLocations": [
+      "190132360004",
+      "190132420007"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:fwName",
+      "ID:fwVersion"
+    ],
+    "src": "data/js/programs_50/file1116.js : 258 - 258",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "ID:jsonp",
+    "callee": "ID:setAttribute",
+    "calleeLocation": "190140880012",
+    "arguments": [
+      "LIT:src",
+      "LIT://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20json%20where%20url%3D'http%3A%2F%2Fwww.cdnjs.com%2Fpackages.min.json'&format=json&callback=wtfJsonpCb"
+    ],
+    "argumentLocations": [
+      "190141010005",
+      "190141080161"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1116.js : 288 - 288",
+    "filename": "data/js/programs_50/file1116.js"
+  },
+  {
+    "base": "ID:Math",
+    "callee": "ID:max",
+    "calleeLocation": "210027480003",
+    "arguments": [
+      "LIT:0",
+      "ID:opt_timeoutInterval"
+    ],
+    "argumentLocations": [
+      "210027520001",
+      "210027550019"
+    ],
+    "argumentTypes": [
+      "number",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 81 - 81",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:goog",
+    "callee": "ID:inherits",
+    "calleeLocation": "210032490008",
+    "arguments": [
+      "ID:XhrManager",
+      "ID:EventTarget"
+    ],
+    "argumentLocations": [
+      "210032580019",
+      "210032790023"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 105 - 105",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:Math",
+    "callee": "ID:max",
+    "calleeLocation": "210041820003",
+    "arguments": [
+      "LIT:0",
+      "ID:ms"
+    ],
+    "argumentLocations": [
+      "210041860001",
+      "210041890002"
+    ],
+    "argumentTypes": [
+      "number",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 137 - 137",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:goog",
+    "callee": "ID:bind",
+    "calleeLocation": "210058520004",
+    "arguments": [
+      "ID:handleEvent_",
+      "LIT:this",
+      "ID:id"
+    ],
+    "argumentLocations": [
+      "210058570017",
+      "210058760004",
+      "210058820002"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 187 - 187",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:requests_",
+    "callee": "ID:set",
+    "calleeLocation": "210060510003",
+    "arguments": [
+      "ID:id",
+      "ID:request"
+    ],
+    "argumentLocations": [
+      "210060550002",
+      "210060590007"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 193 - 193",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:goog",
+    "callee": "ID:bind",
+    "calleeLocation": "210061300004",
+    "arguments": [
+      "ID:handleAvailableXhr_",
+      "LIT:this",
+      "ID:id"
+    ],
+    "argumentLocations": [
+      "210061350024",
+      "210061610004",
+      "210061670002"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 196 - 196",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:xhrPool_",
+    "callee": "ID:getObject",
+    "calleeLocation": "210061880009",
+    "arguments": [
+      "ID:callback",
+      "ID:opt_priority"
+    ],
+    "argumentLocations": [
+      "210061980008",
+      "210062080012"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 197 - 197",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:removeXhrListener_",
+    "calleeLocation": "210068290018",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:getXhrEventCallback"
+    ],
+    "argumentLocations": [
+      "210068480005",
+      "210068550029"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:xhrIo",
+      "ID:func"
+    ],
+    "src": "data/js/programs_50/file1118.js : 217 - 217",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:addXhrListener_",
+    "calleeLocation": "210077920015",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:getXhrEventCallback"
+    ],
+    "argumentLocations": [
+      "210078080005",
+      "210078150029"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:xhrIo",
+      "ID:func"
+    ],
+    "src": "data/js/programs_50/file1118.js : 246 - 246",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:retry_",
+    "calleeLocation": "210082150006",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "argumentLocations": [
+      "210082220002",
+      "210082260005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "src": "data/js/programs_50/file1118.js : 259 - 259",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:retry_",
+    "calleeLocation": "210089770006",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "argumentLocations": [
+      "210089840002",
+      "210089880005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "src": "data/js/programs_50/file1118.js : 284 - 284",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:handleComplete_",
+    "calleeLocation": "210090660015",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo",
+      "ID:e"
+    ],
+    "argumentLocations": [
+      "210090820002",
+      "210090860005",
+      "210090930001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo",
+      "ID:e"
+    ],
+    "src": "data/js/programs_50/file1118.js : 288 - 288",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:handleSuccess_",
+    "calleeLocation": "210091460014",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "argumentLocations": [
+      "210091610002",
+      "210091650005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "src": "data/js/programs_50/file1118.js : 291 - 291",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:handleError_",
+    "calleeLocation": "210093130012",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "argumentLocations": [
+      "210093260002",
+      "210093300005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "src": "data/js/programs_50/file1118.js : 297 - 297",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:handleAbort_",
+    "calleeLocation": "210093980012",
+    "arguments": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "argumentLocations": [
+      "210094110002",
+      "210094150005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:xhrIo"
+    ],
+    "src": "data/js/programs_50/file1118.js : 301 - 301",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:xhrIo",
+    "callee": "ID:send",
+    "calleeLocation": "210100670004",
+    "arguments": [
+      "ID:getUrl",
+      "ID:getMethod",
+      "ID:getContent",
+      "ID:getHeaders"
+    ],
+    "argumentLocations": [
+      "210100720016",
+      "210100900019",
+      "210101110020",
+      "210101410020"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:id",
+      "ID:url",
+      "ID:opt_method",
+      "ID:opt_content"
+    ],
+    "src": "data/js/programs_50/file1118.js : 322 - 323",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:removeXhrListener_",
+    "calleeLocation": "210102540018",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:getXhrEventCallback"
+    ],
+    "argumentLocations": [
+      "210102730005",
+      "210102800029"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:xhrIo",
+      "ID:func"
+    ],
+    "src": "data/js/programs_50/file1118.js : 327 - 327",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:getCompleteCallback",
+    "callee": "ID:call",
+    "calleeLocation": "210116210004",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:e"
+    ],
+    "argumentLocations": [
+      "210116260005",
+      "210116330001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 361 - 361",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:eventHandler_",
+    "callee": "ID:unlisten",
+    "calleeLocation": "210142160008",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:types",
+      "ID:func"
+    ],
+    "argumentLocations": [
+      "210142250005",
+      "210142320005",
+      "210142390004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 436 - 436",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:eventHandler_",
+    "callee": "ID:listen",
+    "calleeLocation": "210148530006",
+    "arguments": [
+      "ID:xhrIo",
+      "ID:types",
+      "ID:func"
+    ],
+    "argumentLocations": [
+      "210148600005",
+      "210148670005",
+      "210148740004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 452 - 452",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:Event",
+    "callee": "ID:call",
+    "calleeLocation": "210158240004",
+    "arguments": [
+      "LIT:this",
+      "ID:type",
+      "ID:target"
+    ],
+    "argumentLocations": [
+      "210158290004",
+      "210158350004",
+      "210158410006"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 491 - 491",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:goog",
+    "callee": "ID:inherits",
+    "calleeLocation": "210162210008",
+    "arguments": [
+      "ID:Event",
+      "ID:Event"
+    ],
+    "argumentLocations": [
+      "210162300025",
+      "210162570017"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 511 - 511",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:goog",
+    "callee": "ID:inherits",
+    "calleeLocation": "210188970008",
+    "arguments": [
+      "ID:Request",
+      "ID:Disposable"
+    ],
+    "argumentLocations": [
+      "210189060027",
+      "210189350015"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1118.js : 626 - 626",
+    "filename": "data/js/programs_50/file1118.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230004200017",
+    "arguments": [
+      "LIT:target",
+      "LIT:popupFeatures"
+    ],
+    "argumentLocations": [
+      "230004390008",
+      "230004490015"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 11 - 11",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230004930017",
+    "arguments": [
+      "LIT:target",
+      "LIT:linkTargetName"
+    ],
+    "argumentLocations": [
+      "230005120008",
+      "230005220016"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 12 - 12",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230019110017",
+    "arguments": [
+      "LIT:info",
+      "ID:partIds"
+    ],
+    "argumentLocations": [
+      "230019300006",
+      "230019380012"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 60 - 60",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:fromCharCode",
+    "callee": "ID:apply",
+    "calleeLocation": "230034800005",
+    "arguments": [
+      "ID:String",
+      "ID:split"
+    ],
+    "argumentLocations": [
+      "230034870006",
+      "230034950029"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 97 - 97",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:paramsMatch",
+    "callee": "ID:replace",
+    "calleeLocation": "230042530007",
+    "arguments": [
+      "ID:paramQuoteRegex",
+      "LIT:"
+    ],
+    "argumentLocations": [
+      "230042620015",
+      "230042790002"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 115 - 115",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230070390007",
+    "arguments": [
+      "LIT:advId",
+      "LIT:id"
+    ],
+    "argumentLocations": [
+      "230070480007",
+      "230070570004"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 191 - 191",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230070700007",
+    "arguments": [
+      "LIT:advLangDir",
+      "LIT:dir"
+    ],
+    "argumentLocations": [
+      "230070790012",
+      "230070930005"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 192 - 192",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230071070007",
+    "arguments": [
+      "LIT:advAccessKey",
+      "LIT:accessKey"
+    ],
+    "argumentLocations": [
+      "230071160014",
+      "230071320011"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 193 - 193",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230072540007",
+    "arguments": [
+      "LIT:advLangCode",
+      "LIT:lang"
+    ],
+    "argumentLocations": [
+      "230072630013",
+      "230072780006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 196 - 196",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230072930007",
+    "arguments": [
+      "LIT:advTabIndex",
+      "LIT:tabindex"
+    ],
+    "argumentLocations": [
+      "230073020013",
+      "230073170010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 197 - 197",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230073360007",
+    "arguments": [
+      "LIT:advTitle",
+      "LIT:title"
+    ],
+    "argumentLocations": [
+      "230073450010",
+      "230073570007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 198 - 198",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230073730007",
+    "arguments": [
+      "LIT:advContentType",
+      "LIT:type"
+    ],
+    "argumentLocations": [
+      "230073820016",
+      "230074000006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 199 - 199",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230075100007",
+    "arguments": [
+      "LIT:advCSSClasses",
+      "LIT:class"
+    ],
+    "argumentLocations": [
+      "230075190015",
+      "230075360007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 200 - 200",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230075520007",
+    "arguments": [
+      "LIT:advCharset",
+      "LIT:charset"
+    ],
+    "argumentLocations": [
+      "230075610012",
+      "230075750009"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 201 - 201",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230075930007",
+    "arguments": [
+      "LIT:advStyles",
+      "LIT:style"
+    ],
+    "argumentLocations": [
+      "230076020011",
+      "230076150007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 202 - 202",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230076310007",
+    "arguments": [
+      "LIT:advRel",
+      "LIT:rel"
+    ],
+    "argumentLocations": [
+      "230076400008",
+      "230076500005"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 203 - 203",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:link",
+    "callee": "ID:tryRestoreFakeAnchor",
+    "calleeLocation": "230088630020",
+    "arguments": [
+      "ID:editor",
+      "ID:getItem"
+    ],
+    "argumentLocations": [
+      "230088850006",
+      "230088930017"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 229 - 229",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:setupParams",
+    "callee": "ID:call",
+    "calleeLocation": "230093420004",
+    "arguments": [
+      "LIT:this",
+      "LIT:target",
+      "ID:data"
+    ],
+    "argumentLocations": [
+      "230093480004",
+      "230093540008",
+      "230093640004"
+    ],
+    "argumentTypes": [
+      "object",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 245 - 245",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:setupParams",
+    "callee": "ID:call",
+    "calleeLocation": "230094450004",
+    "arguments": [
+      "LIT:this",
+      "LIT:adv",
+      "ID:data"
+    ],
+    "argumentLocations": [
+      "230094510004",
+      "230094570005",
+      "230094640004"
+    ],
+    "argumentTypes": [
+      "object",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 249 - 249",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:commitParams",
+    "callee": "ID:call",
+    "calleeLocation": "230097070004",
+    "arguments": [
+      "LIT:this",
+      "LIT:target",
+      "ID:data"
+    ],
+    "argumentLocations": [
+      "230097130004",
+      "230097190008",
+      "230097290004"
+    ],
+    "argumentTypes": [
+      "object",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 260 - 260",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:commitParams",
+    "callee": "ID:call",
+    "calleeLocation": "230098120004",
+    "arguments": [
+      "LIT:this",
+      "LIT:adv",
+      "ID:data"
+    ],
+    "argumentLocations": [
+      "230098180004",
+      "230098240005",
+      "230098310004"
+    ],
+    "argumentTypes": [
+      "object",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 264 - 264",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:str",
+    "callee": "ID:replace",
+    "calleeLocation": "230099010007",
+    "arguments": [
+      "LIT:/\\\\'/g",
+      "LIT:'"
+    ],
+    "argumentLocations": [
+      "230099100006",
+      "230099180004"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 268 - 268",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:str",
+    "callee": "ID:replace",
+    "calleeLocation": "230099840007",
+    "arguments": [
+      "LIT:/'/g",
+      "LIT:\\$&"
+    ],
+    "argumentLocations": [
+      "230099930004",
+      "230099990006"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 272 - 272",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:className",
+    "callee": "ID:replace",
+    "calleeLocation": "230115180007",
+    "arguments": [
+      "LIT:/\\s*(?:cke_anchor_empty|cke_anchor)(?:\\s*$)?/g",
+      "LIT:"
+    ],
+    "argumentLocations": [
+      "230115270046",
+      "230115750002"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 321 - 321",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230133720017",
+    "arguments": [
+      "LIT:info",
+      "LIT:protocol"
+    ],
+    "argumentLocations": [
+      "230133910006",
+      "230133990010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 398 - 398",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230141430017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230141620006",
+      "230141700010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 419 - 419",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getValueOf",
+    "calleeLocation": "230141930010",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230142050006",
+      "230142130010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 419 - 419",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230151730017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230151920006",
+      "230152000010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 454 - 454",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230164540017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230164730006",
+      "230164810010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 509 - 509",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230181150017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230181340006",
+      "230181420010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 573 - 573",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230184900017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230185090006",
+      "230185170010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 590 - 590",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:dialog",
+    "callee": "ID:getValueOf",
+    "calleeLocation": "230185400010",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230185520006",
+      "230185600010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 590 - 590",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230188680017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230188870006",
+      "230188950010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 600 - 600",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getDialog",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230199360017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230199550006",
+      "230199630010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 645 - 645",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:getValue",
+    "callee": "ID:replace",
+    "calleeLocation": "230214720007",
+    "arguments": [
+      "LIT:/\\W/gi",
+      "LIT:"
+    ],
+    "argumentLocations": [
+      "230214810006",
+      "230214890002"
+    ],
+    "argumentTypes": [
+      "regex",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 702 - 702",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:linkHref",
+    "callee": "ID:push",
+    "calleeLocation": "230309330004",
+    "arguments": [
+      "LIT:+'",
+      "ID:escapeSingleQuote",
+      "LIT:'"
+    ],
+    "argumentLocations": [
+      "230309390005",
+      "230309460028",
+      "230309760004"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1114 - 1114",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:address",
+    "callee": "ID:split",
+    "calleeLocation": "230312190005",
+    "arguments": [
+      "LIT:@",
+      "LIT:2"
+    ],
+    "argumentLocations": [
+      "230312260003",
+      "230312310001"
+    ],
+    "argumentTypes": [
+      "string",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1125 - 1125",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:onclickList",
+    "callee": "ID:push",
+    "calleeLocation": "230323630004",
+    "arguments": [
+      "ID:join",
+      "LIT:'); return false;"
+    ],
+    "argumentLocations": [
+      "230323690023",
+      "230323940020"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1157 - 1157",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:removeAttributes",
+    "callee": "ID:push",
+    "calleeLocation": "230327730004",
+    "arguments": [
+      "LIT:data-cke-pa-onclick",
+      "LIT:onclick"
+    ],
+    "argumentLocations": [
+      "230327790021",
+      "230328020009"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1168 - 1168",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230331060007",
+    "arguments": [
+      "LIT:advId",
+      "LIT:id"
+    ],
+    "argumentLocations": [
+      "230331150007",
+      "230331240004"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1182 - 1182",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230331370007",
+    "arguments": [
+      "LIT:advLangDir",
+      "LIT:dir"
+    ],
+    "argumentLocations": [
+      "230331460012",
+      "230331600005"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1183 - 1183",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230331740007",
+    "arguments": [
+      "LIT:advAccessKey",
+      "LIT:accessKey"
+    ],
+    "argumentLocations": [
+      "230331830014",
+      "230331990011"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1184 - 1184",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230334440007",
+    "arguments": [
+      "LIT:advLangCode",
+      "LIT:lang"
+    ],
+    "argumentLocations": [
+      "230334530013",
+      "230334680006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1191 - 1191",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230334830007",
+    "arguments": [
+      "LIT:advTabIndex",
+      "LIT:tabindex"
+    ],
+    "argumentLocations": [
+      "230334920013",
+      "230335070010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1192 - 1192",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230335260007",
+    "arguments": [
+      "LIT:advTitle",
+      "LIT:title"
+    ],
+    "argumentLocations": [
+      "230335350010",
+      "230335470007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1193 - 1193",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230335630007",
+    "arguments": [
+      "LIT:advContentType",
+      "LIT:type"
+    ],
+    "argumentLocations": [
+      "230335720016",
+      "230335900006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1194 - 1194",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230336050007",
+    "arguments": [
+      "LIT:advCSSClasses",
+      "LIT:class"
+    ],
+    "argumentLocations": [
+      "230336140015",
+      "230336310007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1195 - 1195",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230336470007",
+    "arguments": [
+      "LIT:advCharset",
+      "LIT:charset"
+    ],
+    "argumentLocations": [
+      "230336560012",
+      "230336700009"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1196 - 1196",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230336880007",
+    "arguments": [
+      "LIT:advStyles",
+      "LIT:style"
+    ],
+    "argumentLocations": [
+      "230336970011",
+      "230337100007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1197 - 1197",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:advAttr",
+    "calleeLocation": "230337260007",
+    "arguments": [
+      "LIT:advRel",
+      "LIT:rel"
+    ],
+    "argumentLocations": [
+      "230337350008",
+      "230337450005"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "ID:inputName",
+      "ID:attrName"
+    ],
+    "src": "data/js/programs_50/file1120.js : 1198 - 1198",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230358910017",
+    "arguments": [
+      "LIT:info",
+      "LIT:linkType"
+    ],
+    "argumentLocations": [
+      "230359100006",
+      "230359180010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1256 - 1256",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:getContentElement",
+    "calleeLocation": "230360220017",
+    "arguments": [
+      "LIT:info",
+      "LIT:url"
+    ],
+    "argumentLocations": [
+      "230360410006",
+      "230360490005"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1120.js : 1259 - 1259",
+    "filename": "data/js/programs_50/file1120.js"
+  },
+  {
+    "base": "ID:enyo",
+    "callee": "ID:log",
+    "calleeLocation": "240003430003",
+    "arguments": [
+      "LIT:STARTING TEST SUITE ",
+      "ID:kindName"
+    ],
+    "argumentLocations": [
+      "240003470022",
+      "240003710023"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1121.js : 20 - 20",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "ID:enyo",
+    "callee": "ID:bind",
+    "calleeLocation": "240023750004",
+    "arguments": [
+      "LIT:this",
+      "LIT:timedout"
+    ],
+    "argumentLocations": [
+      "240023800004",
+      "240023860010"
+    ],
+    "argumentTypes": [
+      "object",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1121.js : 75 - 75",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:_assert",
+    "calleeLocation": "240057020007",
+    "arguments": [
+      "ID:name",
+      "ID:passed",
+      "LIT:was false",
+      "ID:toString"
+    ],
+    "argumentLocations": [
+      "240057100004",
+      "240057160006",
+      "240057240011",
+      "240057370034"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:name",
+      "ID:passed",
+      "ID:message",
+      "ID:caller"
+    ],
+    "src": "data/js/programs_50/file1121.js : 171 - 171",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:_assert",
+    "calleeLocation": "240060440007",
+    "arguments": [
+      "ID:name",
+      "ID:passed",
+      "LIT:is not null",
+      "ID:toString"
+    ],
+    "argumentLocations": [
+      "240060520004",
+      "240060580006",
+      "240060660013",
+      "240060810034"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:name",
+      "ID:passed",
+      "ID:message",
+      "ID:caller"
+    ],
+    "src": "data/js/programs_50/file1121.js : 178 - 178",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:_assert",
+    "calleeLocation": "240062360007",
+    "arguments": [
+      "ID:name",
+      "ID:passed",
+      "LIT:is null",
+      "ID:toString"
+    ],
+    "argumentLocations": [
+      "240062440004",
+      "240062500006",
+      "240062580009",
+      "240062690034"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:name",
+      "ID:passed",
+      "ID:message",
+      "ID:caller"
+    ],
+    "src": "data/js/programs_50/file1121.js : 182 - 182",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "ID:enyo",
+    "callee": "ID:asyncMethod",
+    "calleeLocation": "240075230011",
+    "arguments": [
+      "LIT:this",
+      "LIT:reallyFinish",
+      "ID:inMessage"
+    ],
+    "argumentLocations": [
+      "240075350004",
+      "240075410014",
+      "240075570009"
+    ],
+    "argumentTypes": [
+      "object",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1121.js : 220 - 220",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "ID:enyo",
+    "callee": "ID:asyncMethod",
+    "calleeLocation": "240097170011",
+    "arguments": [
+      "LIT:this",
+      "LIT:next"
+    ],
+    "argumentLocations": [
+      "240097290004",
+      "240097350006"
+    ],
+    "argumentTypes": [
+      "object",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1121.js : 279 - 279",
+    "filename": "data/js/programs_50/file1121.js"
+  },
+  {
+    "base": "ID:Util",
+    "callee": "ID:setOptions",
+    "calleeLocation": "260009710010",
+    "arguments": [
+      "LIT:this",
+      "ID:options"
+    ],
+    "argumentLocations": [
+      "260009820004",
+      "260009880007"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1126.js : 37 - 37",
+    "filename": "data/js/programs_50/file1126.js"
+  },
+  {
+    "base": "ID:size",
+    "callee": "ID:divideBy",
+    "calleeLocation": "260029880008",
+    "arguments": [
+      "LIT:2",
+      "LIT:true"
+    ],
+    "argumentLocations": [
+      "260029970001",
+      "260030000004"
+    ],
+    "argumentTypes": [
+      "number",
+      "boolean"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1126.js : 93 - 93",
+    "filename": "data/js/programs_50/file1126.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:_setIconStyles",
+    "calleeLocation": "260035190014",
+    "arguments": [
+      "ID:div",
+      "LIT:shadow"
+    ],
+    "argumentLocations": [
+      "260035340003",
+      "260035390008"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:img",
+      "ID:name"
+    ],
+    "src": "data/js/programs_50/file1126.js : 112 - 112",
+    "filename": "data/js/programs_50/file1126.js"
+  },
+  {
+    "base": "ID:Controller",
+    "callee": "ID:call",
+    "calleeLocation": "270006360004",
+    "arguments": [
+      "LIT:this",
+      "ID:context"
+    ],
+    "argumentLocations": [
+      "270006410004",
+      "270006470007"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1129.js : 30 - 30",
+    "filename": "data/js/programs_50/file1129.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:generateQuadMesh",
+    "calleeLocation": "270017770016",
+    "arguments": [
+      "ID:entity",
+      "ID:mesh"
+    ],
+    "argumentLocations": [
+      "270017940006",
+      "270018020004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:entity",
+      "ID:mesh"
+    ],
+    "src": "data/js/programs_50/file1129.js : 60 - 60",
+    "filename": "data/js/programs_50/file1129.js"
+  },
+  {
+    "base": "LIT:this",
+    "callee": "ID:generateFace",
+    "calleeLocation": "270026500012",
+    "arguments": [
+      "ID:hw",
+      "ID:hh",
+      "ID:quad"
+    ],
+    "argumentLocations": [
+      "270026630002",
+      "270026670002",
+      "270026710004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:w",
+      "ID:h",
+      "ID:quad"
+    ],
+    "src": "data/js/programs_50/file1129.js : 90 - 90",
+    "filename": "data/js/programs_50/file1129.js"
+  },
+  {
+    "base": "ID:funcReturningState",
+    "callee": "ID:call",
+    "calleeLocation": "280013060004",
+    "arguments": [
+      "ID:component",
+      "ID:a",
+      "ID:b",
+      "ID:c",
+      "ID:d",
+      "ID:e",
+      "ID:f"
+    ],
+    "argumentLocations": [
+      "280013110009",
+      "280013220001",
+      "280013250001",
+      "280013280001",
+      "280013310001",
+      "280013340001",
+      "280013370001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1130.js : 34 - 34",
+    "filename": "data/js/programs_50/file1130.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createStateKeySetter",
+    "calleeLocation": "280020890020",
+    "arguments": [
+      "ID:component",
+      "ID:key"
+    ],
+    "argumentLocations": [
+      "280021100009",
+      "280021210003"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:component",
+      "ID:key"
+    ],
+    "src": "data/js/programs_50/file1130.js : 55 - 55",
+    "filename": "data/js/programs_50/file1130.js"
+  },
+  {
+    "base": "ID:ReactStateSetters",
+    "callee": "ID:createStateSetter",
+    "calleeLocation": "280032170017",
+    "arguments": [
+      "LIT:this",
+      "ID:funcReturningState"
+    ],
+    "argumentLocations": [
+      "280032350004",
+      "280032410018"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:component",
+      "ID:funcReturningState"
+    ],
+    "src": "data/js/programs_50/file1130.js : 88 - 88",
+    "filename": "data/js/programs_50/file1130.js"
+  },
+  {
+    "base": "ID:ReactStateSetters",
+    "callee": "ID:createStateKeySetter",
+    "calleeLocation": "280038900020",
+    "arguments": [
+      "LIT:this",
+      "ID:key"
+    ],
+    "argumentLocations": [
+      "280039110004",
+      "280039170003"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:component",
+      "ID:key"
+    ],
+    "src": "data/js/programs_50/file1130.js : 107 - 107",
+    "filename": "data/js/programs_50/file1130.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290091280004",
+    "arguments": [
+      "LIT:null",
+      "ID:liveTimers"
+    ],
+    "argumentLocations": [
+      "290091330004",
+      "290091380020"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 324 - 324",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_findAxis",
+    "callee": "ID:call",
+    "calleeLocation": "290110400004",
+    "arguments": [
+      "LIT:null",
+      "ID:axis"
+    ],
+    "argumentLocations": [
+      "290110450004",
+      "290110500012"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 383 - 383",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_findScrollButtonsType",
+    "callee": "ID:call",
+    "calleeLocation": "290117720004",
+    "arguments": [
+      "LIT:null",
+      "ID:scrollType"
+    ],
+    "argumentLocations": [
+      "290117770004",
+      "290117820032"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 390 - 390",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_theme",
+    "callee": "ID:call",
+    "calleeLocation": "290118440004",
+    "arguments": [
+      "LIT:null",
+      "ID:options"
+    ],
+    "argumentLocations": [
+      "290118490004",
+      "290118540007"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 392 - 392",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_theme",
+    "callee": "ID:call",
+    "calleeLocation": "290135470004",
+    "arguments": [
+      "LIT:null",
+      "ID:o"
+    ],
+    "argumentLocations": [
+      "290135520004",
+      "290135570001"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 427 - 427",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:update",
+    "callee": "ID:call",
+    "calleeLocation": "290136990004",
+    "arguments": [
+      "LIT:null",
+      "ID:$this"
+    ],
+    "argumentLocations": [
+      "290137040004",
+      "290137090005"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 432 - 432",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_stop",
+    "callee": "ID:call",
+    "calleeLocation": "290145570004",
+    "arguments": [
+      "LIT:null",
+      "ID:$this"
+    ],
+    "argumentLocations": [
+      "290145620004",
+      "290145670005"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 464 - 464",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_container",
+    "callee": "ID:css",
+    "calleeLocation": "290151260003",
+    "arguments": [
+      "LIT:width",
+      "ID:_contentWidth"
+    ],
+    "argumentLocations": [
+      "290151300007",
+      "290151380050"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 475 - 475",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_arr",
+    "callee": "ID:call",
+    "calleeLocation": "290187980004",
+    "arguments": [
+      "LIT:this",
+      "ID:val"
+    ],
+    "argumentLocations": [
+      "290188030004",
+      "290188080003"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 564 - 564",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_to",
+    "callee": "ID:call",
+    "calleeLocation": "290189810004",
+    "arguments": [
+      "LIT:this",
+      "ID:to",
+      "LIT:y"
+    ],
+    "argumentLocations": [
+      "290189860004",
+      "290189910005",
+      "290189970003"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 567 - 567",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_to",
+    "callee": "ID:call",
+    "calleeLocation": "290190290004",
+    "arguments": [
+      "LIT:this",
+      "ID:to",
+      "LIT:x"
+    ],
+    "argumentLocations": [
+      "290190340004",
+      "290190390005",
+      "290190450003"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 568 - 568",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_scrollTo",
+    "callee": "ID:call",
+    "calleeLocation": "290196360004",
+    "arguments": [
+      "LIT:this",
+      "ID:$this",
+      "ID:toString",
+      "ID:methodOptions"
+    ],
+    "argumentLocations": [
+      "290196410004",
+      "290196460005",
+      "290196520016",
+      "290196690013"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 586 - 586",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_scrollTo",
+    "callee": "ID:call",
+    "calleeLocation": "290198980004",
+    "arguments": [
+      "LIT:this",
+      "ID:$this",
+      "ID:toString",
+      "ID:methodOptions"
+    ],
+    "argumentLocations": [
+      "290199030004",
+      "290199080005",
+      "290199140016",
+      "290199310013"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 591 - 591",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_stop",
+    "callee": "ID:call",
+    "calleeLocation": "290205080004",
+    "arguments": [
+      "LIT:null",
+      "ID:$this"
+    ],
+    "argumentLocations": [
+      "290205130004",
+      "290205180005"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 620 - 620",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_autoUpdate",
+    "callee": "ID:call",
+    "calleeLocation": "290211960004",
+    "arguments": [
+      "LIT:this",
+      "LIT:remove"
+    ],
+    "argumentLocations": [
+      "290212010004",
+      "290212060008"
+    ],
+    "argumentTypes": [
+      "object",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 650 - 650",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_scrollbarVisibility",
+    "callee": "ID:call",
+    "calleeLocation": "290214550004",
+    "arguments": [
+      "LIT:this",
+      "LIT:true"
+    ],
+    "argumentLocations": [
+      "290214600004",
+      "290214650004"
+    ],
+    "argumentTypes": [
+      "object",
+      "boolean"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 656 - 656",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_autoUpdate",
+    "callee": "ID:call",
+    "calleeLocation": "290224470004",
+    "arguments": [
+      "LIT:this",
+      "LIT:remove"
+    ],
+    "argumentLocations": [
+      "290224520004",
+      "290224570008"
+    ],
+    "argumentTypes": [
+      "object",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 692 - 692",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290227600004",
+    "arguments": [
+      "LIT:null",
+      "ID:mcs"
+    ],
+    "argumentLocations": [
+      "290227650004",
+      "290227700008"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 700 - 700",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:inArray",
+    "calleeLocation": "290243750007",
+    "arguments": [
+      "ID:theme",
+      "ID:fixedSizeScrollbarThemes"
+    ],
+    "argumentLocations": [
+      "290243830009",
+      "290243930024"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 742 - 742",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:inArray",
+    "calleeLocation": "290244870007",
+    "arguments": [
+      "ID:theme",
+      "ID:nonExpandedScrollbarThemes"
+    ],
+    "argumentLocations": [
+      "290244950009",
+      "290245050026"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 743 - 743",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:inArray",
+    "calleeLocation": "290246040007",
+    "arguments": [
+      "ID:theme",
+      "ID:disabledScrollButtonsThemes"
+    ],
+    "argumentLocations": [
+      "290246120009",
+      "290246220027"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 744 - 744",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:inArray",
+    "calleeLocation": "290247200007",
+    "arguments": [
+      "ID:theme",
+      "ID:enabledAutoHideScrollbarThemes"
+    ],
+    "argumentLocations": [
+      "290247280009",
+      "290247380030"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 745 - 745",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:inArray",
+    "calleeLocation": "290248350007",
+    "arguments": [
+      "ID:theme",
+      "ID:scrollbarPositionOutsideThemes"
+    ],
+    "argumentLocations": [
+      "290248430009",
+      "290248530030"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 746 - 746",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$this",
+    "callee": "ID:css",
+    "calleeLocation": "290270130003",
+    "arguments": [
+      "LIT:width",
+      "ID:setWidth"
+    ],
+    "argumentLocations": [
+      "290270170007",
+      "290270250010"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 775 - 775",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$this",
+    "callee": "ID:css",
+    "calleeLocation": "290270890003",
+    "arguments": [
+      "LIT:height",
+      "ID:setHeight"
+    ],
+    "argumentLocations": [
+      "290270930008",
+      "290271020011"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 776 - 776",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_container",
+    "callee": "ID:css",
+    "calleeLocation": "290277760003",
+    "arguments": [
+      "LIT:width",
+      "ID:_contentWidth"
+    ],
+    "argumentLocations": [
+      "290277800007",
+      "290277880050"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 782 - 782",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$this",
+    "callee": "ID:css",
+    "calleeLocation": "290279920003",
+    "arguments": [
+      "LIT:position",
+      "LIT:relative"
+    ],
+    "argumentLocations": [
+      "290279960010",
+      "290280070010"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 786 - 786",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$this",
+    "callee": "ID:css",
+    "calleeLocation": "290280380003",
+    "arguments": [
+      "LIT:overflow",
+      "LIT:visible"
+    ],
+    "argumentLocations": [
+      "290280420010",
+      "290280530009"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 788 - 788",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_dragger",
+    "callee": "ID:css",
+    "calleeLocation": "290284800003",
+    "arguments": [
+      "LIT:min-height",
+      "ID:height"
+    ],
+    "argumentLocations": [
+      "290284840012",
+      "290284970024"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 797 - 797",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_dragger",
+    "callee": "ID:css",
+    "calleeLocation": "290285440003",
+    "arguments": [
+      "LIT:min-width",
+      "ID:width"
+    ],
+    "argumentLocations": [
+      "290285480011",
+      "290285600023"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 798 - 798",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:max",
+    "callee": "ID:apply",
+    "calleeLocation": "290287150005",
+    "arguments": [
+      "ID:Math",
+      "ID:get"
+    ],
+    "argumentLocations": [
+      "290287210004",
+      "290287260058"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 805 - 805",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCustomScrollBox",
+    "callee": "ID:css",
+    "calleeLocation": "290314560003",
+    "arguments": [
+      "LIT:max-height",
+      "ID:round"
+    ],
+    "argumentLocations": [
+      "290314600012",
+      "290314730015"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 861 - 861",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:add",
+    "callee": "ID:css",
+    "calleeLocation": "290351200003",
+    "arguments": [
+      "LIT:top",
+      "LIT:0"
+    ],
+    "argumentLocations": [
+      "290351240005",
+      "290351300001"
+    ],
+    "argumentTypes": [
+      "string",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 944 - 944",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_container",
+    "callee": "ID:css",
+    "calleeLocation": "290354690003",
+    "arguments": [
+      "LIT:left",
+      "ID:cx"
+    ],
+    "argumentLocations": [
+      "290354730006",
+      "290354800002"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 951 - 951",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_dragger",
+    "callee": "ID:css",
+    "calleeLocation": "290355060003",
+    "arguments": [
+      "LIT:left",
+      "ID:dx"
+    ],
+    "argumentLocations": [
+      "290355100006",
+      "290355170002"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 952 - 952",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290373680004",
+    "arguments": [
+      "LIT:null",
+      "ID:_focusTimeout"
+    ],
+    "argumentLocations": [
+      "290373730004",
+      "290373780022"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1003 - 1003",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290374590004",
+    "arguments": [
+      "LIT:null",
+      "ID:step"
+    ],
+    "argumentLocations": [
+      "290374640004",
+      "290374690017"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1004 - 1004",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290375630004",
+    "arguments": [
+      "LIT:null",
+      "ID:onCompleteTimeout"
+    ],
+    "argumentLocations": [
+      "290375680004",
+      "290375730035"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1005 - 1005",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:add",
+    "callee": "ID:css",
+    "calleeLocation": "290382930003",
+    "arguments": [
+      "LIT:display",
+      "LIT:block"
+    ],
+    "argumentLocations": [
+      "290382970009",
+      "290383070007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1021 - 1021",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:add",
+    "callee": "ID:css",
+    "calleeLocation": "290385090003",
+    "arguments": [
+      "LIT:display",
+      "LIT:none"
+    ],
+    "argumentLocations": [
+      "290385130009",
+      "290385230006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1025 - 1025",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:scrollbar",
+    "callee": "ID:css",
+    "calleeLocation": "290386100003",
+    "arguments": [
+      "LIT:display",
+      "LIT:none"
+    ],
+    "argumentLocations": [
+      "290386140009",
+      "290386240006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1028 - 1028",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:add",
+    "callee": "ID:css",
+    "calleeLocation": "290388740003",
+    "arguments": [
+      "LIT:display",
+      "LIT:block"
+    ],
+    "argumentLocations": [
+      "290388780009",
+      "290388880007"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1036 - 1036",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:add",
+    "callee": "ID:css",
+    "calleeLocation": "290390900003",
+    "arguments": [
+      "LIT:display",
+      "LIT:none"
+    ],
+    "argumentLocations": [
+      "290390940009",
+      "290391040006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1040 - 1040",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:scrollbar",
+    "callee": "ID:css",
+    "calleeLocation": "290391910003",
+    "arguments": [
+      "LIT:display",
+      "LIT:none"
+    ],
+    "argumentLocations": [
+      "290391950009",
+      "290392050006"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1043 - 1043",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:functions",
+    "callee": "ID:_onDragClasses",
+    "calleeLocation": "290414060014",
+    "arguments": [
+      "ID:draggable",
+      "LIT:active",
+      "ID:autoExpandScrollbar"
+    ],
+    "argumentLocations": [
+      "290414210009",
+      "290414310008",
+      "290414400021"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:el",
+      "ID:action",
+      "ID:xpnd"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1102 - 1102",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290416990005",
+    "arguments": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x"
+    ],
+    "argumentLocations": [
+      "290417050005",
+      "290417110005",
+      "290417170001",
+      "290417190001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1107 - 1107",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290420460005",
+    "arguments": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x"
+    ],
+    "argumentLocations": [
+      "290420520005",
+      "290420580005",
+      "290420640001",
+      "290420660001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1113 - 1113",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:functions",
+    "callee": "ID:_onDragClasses",
+    "calleeLocation": "290422500014",
+    "arguments": [
+      "ID:draggable",
+      "LIT:active",
+      "ID:autoExpandScrollbar"
+    ],
+    "argumentLocations": [
+      "290422650009",
+      "290422750008",
+      "290422840021"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:el",
+      "ID:action",
+      "ID:xpnd"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1117 - 1117",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:el",
+    "callee": "ID:css",
+    "calleeLocation": "290426860003",
+    "arguments": [
+      "LIT:pointer-events",
+      "ID:val"
+    ],
+    "argumentLocations": [
+      "290426900016",
+      "290427070003"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1128 - 1128",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290452560005",
+    "arguments": [
+      "ID:amount",
+      "ID:durA",
+      "ID:easing",
+      "LIT:y",
+      "LIT:all",
+      "LIT:true"
+    ],
+    "argumentLocations": [
+      "290452620009",
+      "290452720004",
+      "290452770006",
+      "290452840003",
+      "290452880005",
+      "290452940004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "string",
+      "string",
+      "boolean"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1180 - 1180",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290453270005",
+    "arguments": [
+      "ID:amount",
+      "ID:durA",
+      "ID:easing",
+      "LIT:x",
+      "ID:overwrite",
+      "LIT:true"
+    ],
+    "argumentLocations": [
+      "290453330009",
+      "290453430004",
+      "290453480006",
+      "290453550003",
+      "290453590009",
+      "290453690004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "string",
+      "unknown",
+      "boolean"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1181 - 1181",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290472650005",
+    "arguments": [
+      "ID:amount",
+      "ID:durB",
+      "ID:easing",
+      "LIT:y",
+      "ID:overwrite",
+      "LIT:false"
+    ],
+    "argumentLocations": [
+      "290472710009",
+      "290472810007",
+      "290472890006",
+      "290472960003",
+      "290473000009",
+      "290473100005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "string",
+      "unknown",
+      "boolean"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1213 - 1213",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_drag",
+    "calleeLocation": "290473440005",
+    "arguments": [
+      "ID:amount",
+      "ID:durB",
+      "ID:easing",
+      "LIT:x",
+      "ID:overwrite",
+      "LIT:false"
+    ],
+    "argumentLocations": [
+      "290473500009",
+      "290473600007",
+      "290473680006",
+      "290473750003",
+      "290473790009",
+      "290473890005"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "string",
+      "unknown",
+      "boolean"
+    ],
+    "parameters": [
+      "ID:dragY",
+      "ID:dragX",
+      "ID:y",
+      "ID:x",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1214 - 1214",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_seq",
+    "calleeLocation": "290546560004",
+    "arguments": [
+      "LIT:on",
+      "ID:btnClass"
+    ],
+    "argumentLocations": [
+      "290546610004",
+      "290546660008"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:a",
+      "ID:c"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1384 - 1384",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_seq",
+    "calleeLocation": "290549170004",
+    "arguments": [
+      "LIT:off",
+      "ID:btnClass"
+    ],
+    "argumentLocations": [
+      "290549220005",
+      "290549280008"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:a",
+      "ID:c"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1390 - 1390",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_seq",
+    "calleeLocation": "290550400004",
+    "arguments": [
+      "LIT:on",
+      "ID:btnClass"
+    ],
+    "argumentLocations": [
+      "290550450004",
+      "290550500008"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:a",
+      "ID:c"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1394 - 1394",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_sequentialScroll",
+    "callee": "ID:call",
+    "calleeLocation": "290552100004",
+    "arguments": [
+      "LIT:this",
+      "ID:$this",
+      "ID:a",
+      "ID:c"
+    ],
+    "argumentLocations": [
+      "290552150004",
+      "290552200005",
+      "290552260001",
+      "290552280001"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1399 - 1399",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCustomScrollBox",
+    "callee": "ID:attr",
+    "calleeLocation": "290558000004",
+    "arguments": [
+      "LIT:tabindex",
+      "LIT:0"
+    ],
+    "argumentLocations": [
+      "290558050010",
+      "290558160003"
+    ],
+    "argumentTypes": [
+      "string",
+      "string"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1418 - 1418",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_seq",
+    "calleeLocation": "290559760004",
+    "arguments": [
+      "LIT:off",
+      "LIT:null"
+    ],
+    "argumentLocations": [
+      "290559810005",
+      "290559870004"
+    ],
+    "argumentTypes": [
+      "string",
+      "null"
+    ],
+    "parameters": [
+      "ID:a",
+      "ID:c"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1421 - 1421",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_seq",
+    "calleeLocation": "290565630004",
+    "arguments": [
+      "ID:action",
+      "ID:code"
+    ],
+    "argumentLocations": [
+      "290565680006",
+      "290565750004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:a",
+      "ID:c"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1432 - 1432",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_sequentialScroll",
+    "callee": "ID:call",
+    "calleeLocation": "290582860004",
+    "arguments": [
+      "LIT:this",
+      "ID:$this",
+      "ID:a",
+      "ID:c"
+    ],
+    "argumentLocations": [
+      "290582910004",
+      "290582960005",
+      "290583020001",
+      "290583040001"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1473 - 1473",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_isNumeric",
+    "callee": "ID:call",
+    "calleeLocation": "290626920004",
+    "arguments": [
+      "LIT:null",
+      "ID:val"
+    ],
+    "argumentLocations": [
+      "290626970004",
+      "290627020003"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1581 - 1581",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_isNumeric",
+    "callee": "ID:call",
+    "calleeLocation": "290632190004",
+    "arguments": [
+      "LIT:null",
+      "ID:split"
+    ],
+    "argumentLocations": [
+      "290632240004",
+      "290632290018"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1590 - 1590",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:mCSB_container",
+    "callee": "ID:css",
+    "calleeLocation": "290641110003",
+    "arguments": [
+      "ID:cssProp",
+      "ID:val"
+    ],
+    "argumentLocations": [
+      "290641150007",
+      "290641230003"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1608 - 1608",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:update",
+    "callee": "ID:call",
+    "calleeLocation": "290641530004",
+    "arguments": [
+      "LIT:null",
+      "ID:$this"
+    ],
+    "argumentLocations": [
+      "290641580004",
+      "290641630008"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1609 - 1609",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_delete",
+    "callee": "ID:call",
+    "calleeLocation": "290646530004",
+    "arguments": [
+      "LIT:null",
+      "ID:autoUpdate"
+    ],
+    "argumentLocations": [
+      "290646580004",
+      "290646630028"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1630 - 1630",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:delegateMethod",
+    "callee": "ID:apply",
+    "calleeLocation": "290669340005",
+    "arguments": [
+      "ID:contextObject",
+      "ID:arguments"
+    ],
+    "argumentLocations": [
+      "290669400013",
+      "290669540009"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1686 - 1686",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:createDelegate",
+    "calleeLocation": "290670630014",
+    "arguments": [
+      "ID:img",
+      "ID:imgOnLoad"
+    ],
+    "argumentLocations": [
+      "290670780003",
+      "290670820009"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:contextObject",
+      "ID:delegateMethod"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1692 - 1692",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:update",
+    "callee": "ID:call",
+    "calleeLocation": "290676720004",
+    "arguments": [
+      "LIT:null",
+      "ID:$this"
+    ],
+    "argumentLocations": [
+      "290676770004",
+      "290676820008"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1705 - 1705",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:$",
+    "callee": "ID:extend",
+    "calleeLocation": "290687200006",
+    "arguments": [
+      "ID:defaults",
+      "ID:options"
+    ],
+    "argumentLocations": [
+      "290687270008",
+      "290687360007"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1747 - 1747",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_arr",
+    "callee": "ID:call",
+    "calleeLocation": "290689690004",
+    "arguments": [
+      "ID:el",
+      "ID:onTotalScrollOffset"
+    ],
+    "argumentLocations": [
+      "290689740002",
+      "290689770031"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1751 - 1751",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_arr",
+    "callee": "ID:call",
+    "calleeLocation": "290691000004",
+    "arguments": [
+      "ID:el",
+      "ID:onTotalScrollBackOffset"
+    ],
+    "argumentLocations": [
+      "290691050002",
+      "290691080035"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1752 - 1752",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:functions",
+    "callee": "ID:_snapAmount",
+    "calleeLocation": "290692190011",
+    "arguments": [
+      "ID:to",
+      "ID:snapAmount",
+      "ID:snapOffset"
+    ],
+    "argumentLocations": [
+      "290692310002",
+      "290692340012",
+      "290692470012"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:to",
+      "ID:amount",
+      "ID:offset"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1754 - 1754",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:_tweenTo",
+    "callee": "ID:call",
+    "calleeLocation": "290707920004",
+    "arguments": [
+      "LIT:null",
+      "ID:mCSB_dragger",
+      "ID:property",
+      "ID:round",
+      "ID:dur",
+      "ID:scrollEasing"
+    ],
+    "argumentLocations": [
+      "290707970004",
+      "290708020015",
+      "290708180008",
+      "290708270023",
+      "290708510006",
+      "290708580020"
+    ],
+    "argumentTypes": [
+      "null",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1794 - 1794",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:functions",
+    "callee": "ID:_onDragClasses",
+    "calleeLocation": "290723290014",
+    "arguments": [
+      "ID:mCSB_dragger",
+      "LIT:hide"
+    ],
+    "argumentLocations": [
+      "290723440012",
+      "290723570006"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "string"
+    ],
+    "parameters": [
+      "ID:el",
+      "ID:action"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1820 - 1820",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:_ease",
+    "calleeLocation": "290752680005",
+    "arguments": [
+      "ID:_mcstime",
+      "ID:from",
+      "ID:diff",
+      "ID:duration",
+      "ID:easing"
+    ],
+    "argumentLocations": [
+      "290752740011",
+      "290752860004",
+      "290752910004",
+      "290752960008",
+      "290753050006"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown",
+      "unknown"
+    ],
+    "parameters": [
+      "ID:t",
+      "ID:b",
+      "ID:c",
+      "ID:d",
+      "ID:type"
+    ],
+    "src": "data/js/programs_50/file1131.js : 1892 - 1892",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:setTimeout",
+    "calleeLocation": "290756030010",
+    "arguments": [
+      "ID:f",
+      "LIT:0.01"
+    ],
+    "argumentLocations": [
+      "290756140001",
+      "290756160004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 1902 - 1902",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:methods",
+    "callee": "ID:apply",
+    "calleeLocation": "290791480005",
+    "arguments": [
+      "LIT:this",
+      "ID:call"
+    ],
+    "argumentLocations": [
+      "290791540004",
+      "290791590039"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2028 - 2028",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:slice",
+    "callee": "ID:call",
+    "calleeLocation": "290791810004",
+    "arguments": [
+      "ID:arguments",
+      "LIT:1"
+    ],
+    "argumentLocations": [
+      "290791860009",
+      "290791960001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2028 - 2028",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:init",
+    "callee": "ID:apply",
+    "calleeLocation": "290792730005",
+    "arguments": [
+      "LIT:this",
+      "ID:arguments"
+    ],
+    "argumentLocations": [
+      "290792790004",
+      "290792840009"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2030 - 2030",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:methods",
+    "callee": "ID:apply",
+    "calleeLocation": "290794760005",
+    "arguments": [
+      "LIT:this",
+      "ID:call"
+    ],
+    "argumentLocations": [
+      "290794820004",
+      "290794870039"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2037 - 2037",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:slice",
+    "callee": "ID:call",
+    "calleeLocation": "290795090004",
+    "arguments": [
+      "ID:arguments",
+      "LIT:1"
+    ],
+    "argumentLocations": [
+      "290795140009",
+      "290795240001"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2037 - 2037",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "ID:init",
+    "callee": "ID:apply",
+    "calleeLocation": "290796010005",
+    "arguments": [
+      "LIT:this",
+      "ID:arguments"
+    ],
+    "argumentLocations": [
+      "290796070004",
+      "290796120009"
+    ],
+    "argumentTypes": [
+      "object",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1131.js : 2039 - 2039",
+    "filename": "data/js/programs_50/file1131.js"
+  },
+  {
+    "base": "",
+    "callee": "ID:setTimeout",
+    "calleeLocation": "300019010010",
+    "arguments": [
+      "ID:close",
+      "LIT:2000"
+    ],
+    "argumentLocations": [
+      "300019120015",
+      "300019290004"
+    ],
+    "argumentTypes": [
+      "unknown",
+      "number"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1135.js : 47 - 47",
+    "filename": "data/js/programs_50/file1135.js"
+  },
+  {
+    "base": "ID:jQuery",
+    "callee": "ID:live",
+    "calleeLocation": "300019950004",
+    "arguments": [
+      "LIT:click",
+      "ID:acknowledgeAndClose"
+    ],
+    "argumentLocations": [
+      "300020000007",
+      "300020090019"
+    ],
+    "argumentTypes": [
+      "string",
+      "unknown"
+    ],
+    "parameters": [
+      "",
+      ""
+    ],
+    "src": "data/js/programs_50/file1135.js : 51 - 51",
+    "filename": "data/js/programs_50/file1135.js"
+  }
+]

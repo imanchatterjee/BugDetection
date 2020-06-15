@@ -1,0 +1,6672 @@
+[
+  {
+    "left": "ID:length",
+    "right": "LIT:2",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "NewExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1093.js : 35 - 35"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:len",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 39 - 39"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:8",
+    "op": ">>",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1093.js : 45 - 45"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:255",
+    "op": "&",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1093.js : 47 - 47"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:len",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 51 - 51"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:3",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1093.js : 79 - 79"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:len",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 83 - 83"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:65",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 85 - 85"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:90",
+    "op": "<=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 85 - 85"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:65",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1093.js : 86 - 86"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:97",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 87 - 87"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:122",
+    "op": "<=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 87 - 87"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:97",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1093.js : 88 - 88"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:48",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 89 - 89"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:57",
+    "op": "<=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 89 - 89"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:48",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1093.js : 90 - 90"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:43",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 91 - 91"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:47",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 93 - 93"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:61",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 95 - 95"
+  },
+  {
+    "left": "ID:bitsSoFar",
+    "right": "LIT:6",
+    "op": "<<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1093.js : 102 - 102"
+  },
+  {
+    "left": "ID:validBits",
+    "right": "LIT:8",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 104 - 104"
+  },
+  {
+    "left": "ID:bitsSoFar",
+    "right": "ID:validBits",
+    "op": ">>",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1093.js : 106 - 106"
+  },
+  {
+    "left": "ID:validBits",
+    "right": "LIT:2",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 107 - 107"
+  },
+  {
+    "left": "ID:validBits",
+    "right": "LIT:4",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 109 - 109"
+  },
+  {
+    "left": "ID:iOut",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 115 - 115"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:len",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 125 - 125"
+  },
+  {
+    "left": "ID:octets",
+    "right": "LIT:8",
+    "op": "<<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1093.js : 127 - 127"
+  },
+  {
+    "left": "LIT:A-Za-z0-9",
+    "right": "ID:escape",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1093.js : 138 - 138"
+  },
+  {
+    "left": "LIT:[^",
+    "right": "ID:setW",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1093.js : 144 - 144"
+  },
+  {
+    "left": "LIT:[^",
+    "right": "ID:setD",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1093.js : 154 - 154"
+  },
+  {
+    "left": "ID:chunk",
+    "right": "LIT:+",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1093.js : 160 - 160"
+  },
+  {
+    "left": "ID:chunk",
+    "right": "LIT:+",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1093.js : 169 - 169"
+  },
+  {
+    "left": "ID:chunk",
+    "right": "LIT:",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 177 - 177"
+  },
+  {
+    "left": "ID:chunk",
+    "right": "LIT:&",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "MemberExpression",
+    "src": "data/js/programs_50/file1093.js : 191 - 191"
+  },
+  {
+    "left": "LIT:&",
+    "right": "ID:chunk",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1093.js : 192 - 192"
+  },
+  {
+    "left": "ID:chunk",
+    "right": "LIT:",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1093.js : 200 - 200"
+  },
+  {
+    "left": "LIT:<h3>",
+    "right": "ID:title",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1096.js : 5 - 5"
+  },
+  {
+    "left": "LIT:<p>数据 ： ",
+    "right": "ID:stringify",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1096.js : 9 - 9"
+  },
+  {
+    "left": "LIT:<p>结果：",
+    "right": "ID:stringify",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1096.js : 17 - 17"
+  },
+  {
+    "left": "LIT:7",
+    "right": "LIT:24",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1096.js : 87 - 87"
+  },
+  {
+    "left": "ID:host",
+    "right": "LIT:www.gridshore.nl",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1097.js : 11 - 11"
+  },
+  {
+    "left": "ID:protocol",
+    "right": "LIT:://",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1097.js : 14 - 14"
+  },
+  {
+    "left": "ID:tooltip",
+    "right": "ID:div",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1099.js : 12 - 12"
+  },
+  {
+    "left": "LIT:SELECT * FROM ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 51 - 51"
+  },
+  {
+    "left": "LIT: and ",
+    "right": "ID:k",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 89 - 89"
+  },
+  {
+    "left": "LIT: and ",
+    "right": "ID:k",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 96 - 96"
+  },
+  {
+    "left": "ID:getIdName",
+    "right": "LIT: and in (",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 103 - 103"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 104 - 104"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:ids",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 105 - 105"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1103.js : 106 - 106"
+  },
+  {
+    "left": "LIT: order by ",
+    "right": "ID:orderBy",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 114 - 114"
+  },
+  {
+    "left": "LIT: ",
+    "right": "ID:orderType",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 116 - 116"
+  },
+  {
+    "left": "ID:pageIndex",
+    "right": "LIT:0",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1103.js : 120 - 120"
+  },
+  {
+    "left": "ID:pageIndex",
+    "right": "ID:pageSize",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 121 - 121"
+  },
+  {
+    "left": "LIT:,",
+    "right": "ID:pageSize",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 123 - 123"
+  },
+  {
+    "left": "LIT:SELECT ",
+    "right": "LIT: * ",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 131 - 131"
+  },
+  {
+    "left": "LIT:INSERT INTO ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1103.js : 151 - 151"
+  },
+  {
+    "left": "ID:idx",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 156 - 156"
+  },
+  {
+    "left": "LIT: ) VALUES (",
+    "right": "ID:values",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 166 - 166"
+  },
+  {
+    "left": "LIT:UPDATE ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1103.js : 192 - 192"
+  },
+  {
+    "left": "ID:idx",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 195 - 195"
+  },
+  {
+    "left": "ID:k",
+    "right": "LIT:='",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 198 - 198"
+  },
+  {
+    "left": "LIT: where ",
+    "right": "ID:getIdName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 202 - 202"
+  },
+  {
+    "left": "LIT:DELETE FROM ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1103.js : 227 - 227"
+  },
+  {
+    "left": "ID:getIdName",
+    "right": "LIT: = '",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 230 - 230"
+  },
+  {
+    "left": "ID:delSql",
+    "right": "ID:condition",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 232 - 232"
+  },
+  {
+    "left": "LIT:DELETE FROM ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1103.js : 256 - 256"
+  },
+  {
+    "left": "ID:getIdName",
+    "right": "LIT: in (",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 259 - 259"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 260 - 260"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:ids",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 261 - 261"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1103.js : 262 - 262"
+  },
+  {
+    "left": "ID:delSql",
+    "right": "ID:condition",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 268 - 268"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 290 - 290"
+  },
+  {
+    "left": "LIT:INSERT INTO ",
+    "right": "ID:_tableName",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1103.js : 293 - 293"
+  },
+  {
+    "left": "ID:idx",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 298 - 298"
+  },
+  {
+    "left": "LIT: ) VALUES (",
+    "right": "ID:values",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 308 - 308"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1103.js : 309 - 309"
+  },
+  {
+    "left": "LIT: and ",
+    "right": "ID:k",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 349 - 349"
+  },
+  {
+    "left": "LIT: and ",
+    "right": "ID:k",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 356 - 356"
+  },
+  {
+    "left": "ID:getIdName",
+    "right": "LIT: and in (",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1103.js : 362 - 362"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 363 - 363"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:ids",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1103.js : 364 - 364"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1103.js : 365 - 365"
+  },
+  {
+    "left": "LIT:SELECT ",
+    "right": "LIT:count(*) as 'count' ",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1103.js : 375 - 375"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:rlen",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1103.js : 392 - 392"
+  },
+  {
+    "left": "ID:getKey",
+    "right": "ID:ENTER",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1115.js : 67 - 67"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1115.js : 95 - 95"
+  },
+  {
+    "left": "ID:verPaths",
+    "right": "ID:Array",
+    "op": "instanceof",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "UnaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1116.js : 14 - 14"
+  },
+  {
+    "left": "ID:curVer",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 200 - 200"
+  },
+  {
+    "left": "LIT: (Latest version: ",
+    "right": "ID:curVer",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1116.js : 201 - 201"
+  },
+  {
+    "left": "ID:fwVersion",
+    "right": "LIT:%build%",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1116.js : 214 - 214"
+  },
+  {
+    "left": "ID:curVer",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 217 - 217"
+  },
+  {
+    "left": "ID:curVer",
+    "right": "ID:fwVersion",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1116.js : 219 - 219"
+  },
+  {
+    "left": "ID:j",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 239 - 239"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 243 - 243"
+  },
+  {
+    "left": "ID:version",
+    "right": "LIT:false",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "boolean",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 253 - 253"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1116.js : 278 - 278"
+  },
+  {
+    "left": "ID:n",
+    "right": "LIT:1",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1117.js : 48 - 48"
+  },
+  {
+    "left": "ID:getLastErrorCode",
+    "right": "ID:ABORT",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1118.js : 350 - 350"
+  },
+  {
+    "left": "ID:attemptCount_",
+    "right": "ID:maxRetries_",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1118.js : 697 - 697"
+  },
+  {
+    "left": "ID:typeValue",
+    "right": "LIT:url",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 48 - 48"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 59 - 59"
+  },
+  {
+    "left": "ID:typeValue",
+    "right": "LIT:Options",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 65 - 65"
+  },
+  {
+    "left": "ID:emailProtection",
+    "right": "LIT:encode",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 94 - 94"
+  },
+  {
+    "left": "LIT:mailto:",
+    "right": "ID:apply",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1120.js : 96 - 97"
+  },
+  {
+    "left": "ID:funcName",
+    "right": "ID:name",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 104 - 104"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:paramsMatchLength",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 114 - 114"
+  },
+  {
+    "left": "ID:featureMatch",
+    "right": "LIT:yes",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1120.js : 169 - 169"
+  },
+  {
+    "left": "ID:featureMatch",
+    "right": "LIT:1",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1120.js : 169 - 169"
+  },
+  {
+    "left": "ID:value",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 188 - 188"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:count",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 213 - 213"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:count",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 220 - 220"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:count",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 228 - 228"
+  },
+  {
+    "left": "ID:emailProtection",
+    "right": "LIT:encode",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 278 - 278"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 297 - 297"
+  },
+  {
+    "left": "ID:i",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1120.js : 301 - 301"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 312 - 312"
+  },
+  {
+    "left": "LIT:String.fromCharCode(",
+    "right": "ID:join",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1120.js : 316 - 316"
+  },
+  {
+    "left": "ID:getValueOf",
+    "right": "LIT:url",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 419 - 419"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 479 - 479"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 501 - 501"
+  },
+  {
+    "left": "ID:getValue",
+    "right": "LIT:email",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 510 - 510"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:length",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 532 - 532"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 549 - 549"
+  },
+  {
+    "left": "LIT:<div role=\"note\" tabIndex=\"-1\">",
+    "right": "ID:htmlEncode",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "Property",
+    "src": "data/js/programs_50/file1120.js : 561 - 561"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 565 - 565"
+  },
+  {
+    "left": "ID:getValueOf",
+    "right": "LIT:email",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 590 - 590"
+  },
+  {
+    "left": "ID:getValue",
+    "right": "LIT:email",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 601 - 601"
+  },
+  {
+    "left": "ID:protocol",
+    "right": "ID:undefined",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "undefined",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1120.js : 1082 - 1082"
+  },
+  {
+    "left": "ID:indexOf",
+    "right": "LIT:0",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1120.js : 1084 - 1084"
+  },
+  {
+    "left": "ID:protocol",
+    "right": "ID:url",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1120.js : 1084 - 1084"
+  },
+  {
+    "left": "LIT:subject=",
+    "right": "ID:subject",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1120.js : 1106 - 1106"
+  },
+  {
+    "left": "LIT:body=",
+    "right": "ID:body",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1120.js : 1107 - 1107"
+  },
+  {
+    "left": "LIT:?",
+    "right": "ID:join",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1120.js : 1108 - 1108"
+  },
+  {
+    "left": "ID:emailProtection",
+    "right": "LIT:encode",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 1110 - 1110"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:popup",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 1139 - 1139"
+  },
+  {
+    "left": "ID:featureName",
+    "right": "LIT:=",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1120.js : 1147 - 1147"
+  },
+  {
+    "left": "ID:i",
+    "right": "ID:featureLength",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ForStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 1150 - 1150"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:notSet",
+    "op": "!=",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 1163 - 1163"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:email",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "NewExpression",
+    "src": "data/js/programs_50/file1120.js : 1213 - 1213"
+  },
+  {
+    "left": "ID:href",
+    "right": "ID:textView",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 1236 - 1236"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:email",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1120.js : 1236 - 1236"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:email",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1120.js : 1238 - 1238"
+  },
+  {
+    "left": "ID:getValue",
+    "right": "LIT:url",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 1258 - 1258"
+  },
+  {
+    "left": "ID:a",
+    "right": "ID:b",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1121.js : 163 - 163"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:a",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 164 - 164"
+  },
+  {
+    "left": "ID:a",
+    "right": "ID:b",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1121.js : 167 - 167"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:a",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 168 - 168"
+  },
+  {
+    "left": "ID:a",
+    "right": "LIT:null",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1121.js : 177 - 177"
+  },
+  {
+    "left": "ID:a",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1121.js : 181 - 181"
+  },
+  {
+    "left": "ID:a",
+    "right": "ID:b",
+    "op": "in",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1121.js : 185 - 185"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:a",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 186 - 186"
+  },
+  {
+    "left": "ID:a",
+    "right": "ID:b",
+    "op": "in",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "UnaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1121.js : 189 - 189"
+  },
+  {
+    "left": "LIT:'",
+    "right": "ID:a",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 190 - 190"
+  },
+  {
+    "left": "ID:endTime",
+    "right": "ID:startTime",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1121.js : 201 - 201"
+  },
+  {
+    "left": "LIT:Finish called more than once in test ",
+    "right": "ID:name",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1121.js : 227 - 227"
+  },
+  {
+    "left": "ID:message",
+    "right": "ID:undefined",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "undefined",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1121.js : 241 - 241"
+  },
+  {
+    "left": "ID:inMessage",
+    "right": "ID:timeoutMessage",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1121.js : 249 - 249"
+  },
+  {
+    "left": "ID:testName",
+    "right": "LIT:: running",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1121.js : 326 - 326"
+  },
+  {
+    "left": "ID:indexOf",
+    "right": "LIT:0",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1121.js : 332 - 332"
+  },
+  {
+    "left": "ID:indexOf",
+    "right": "LIT:0",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1121.js : 333 - 333"
+  },
+  {
+    "left": "LIT:<div class='name' style='width: 50%;float: left'><b>",
+    "right": "ID:assertname",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 345 - 345"
+  },
+  {
+    "left": "LIT:<br/>",
+    "right": "ID:sourceURL",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 351 - 351"
+  },
+  {
+    "left": "LIT:<br/>",
+    "right": "ID:name",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1121.js : 355 - 355"
+  },
+  {
+    "left": "LIT:<br/>",
+    "right": "ID:join",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1121.js : 360 - 360"
+  },
+  {
+    "left": "LIT:icon-",
+    "right": "ID:markerColor",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1126.js : 53 - 53"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1126.js : 60 - 60"
+  },
+  {
+    "left": "ID:prefix",
+    "right": "LIT:-",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1126.js : 60 - 60"
+  },
+  {
+    "left": "ID:prefix",
+    "right": "LIT:-",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1126.js : 63 - 63"
+  },
+  {
+    "left": "ID:iconColor",
+    "right": "LIT:white",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1126.js : 71 - 71"
+  },
+  {
+    "left": "ID:iconColor",
+    "right": "LIT:black",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1126.js : 71 - 71"
+  },
+  {
+    "left": "LIT:icon-",
+    "right": "ID:iconColor",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1126.js : 72 - 72"
+  },
+  {
+    "left": "LIT:style='color: ",
+    "right": "ID:iconColor",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1126.js : 74 - 74"
+  },
+  {
+    "left": "LIT:<i ",
+    "right": "ID:iconColorStyle",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1126.js : 78 - 78"
+  },
+  {
+    "left": "ID:name",
+    "right": "LIT:shadow",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "MemberExpression",
+    "src": "data/js/programs_50/file1126.js : 83 - 83"
+  },
+  {
+    "left": "ID:name",
+    "right": "LIT:shadow",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1126.js : 86 - 86"
+  },
+  {
+    "left": "LIT:awesome-marker-",
+    "right": "ID:name",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1126.js : 96 - 96"
+  },
+  {
+    "left": "ID:x",
+    "right": "LIT:px",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1126.js : 104 - 104"
+  },
+  {
+    "left": "ID:y",
+    "right": "LIT:px",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1126.js : 105 - 105"
+  },
+  {
+    "left": "ID:w",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 85 - 85"
+  },
+  {
+    "left": "ID:h",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 86 - 86"
+  },
+  {
+    "left": "ID:u",
+    "right": "LIT:0",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 118 - 118"
+  },
+  {
+    "left": "ID:v",
+    "right": "ID:t",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 118 - 118"
+  },
+  {
+    "left": "ID:u",
+    "right": "LIT:0",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 119 - 119"
+  },
+  {
+    "left": "ID:v",
+    "right": "LIT:0",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 119 - 119"
+  },
+  {
+    "left": "ID:u",
+    "right": "ID:s",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 120 - 120"
+  },
+  {
+    "left": "ID:v",
+    "right": "LIT:0",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 120 - 120"
+  },
+  {
+    "left": "ID:u",
+    "right": "ID:s",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 121 - 121"
+  },
+  {
+    "left": "ID:v",
+    "right": "ID:t",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "NewExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1129.js : 121 - 121"
+  },
+  {
+    "left": "ID:vertexCount",
+    "right": "LIT:2",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 129 - 129"
+  },
+  {
+    "left": "ID:vertexCount",
+    "right": "LIT:1",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 129 - 129"
+  },
+  {
+    "left": "ID:vertexCount",
+    "right": "LIT:3",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 130 - 130"
+  },
+  {
+    "left": "ID:vertexCount",
+    "right": "LIT:2",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1129.js : 130 - 130"
+  },
+  {
+    "left": "ID:live",
+    "right": "LIT:off",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 360 - 360"
+  },
+  {
+    "left": "ID:live",
+    "right": "LIT:once",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 371 - 371"
+  },
+  {
+    "left": "ID:scrollInertia",
+    "right": "LIT:17",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 384 - 384"
+  },
+  {
+    "left": "ID:mouseWheel",
+    "right": "LIT:true",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "boolean",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 385 - 385"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 461 - 461"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 462 - 462"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 462 - 462"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 474 - 474"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 491 - 491"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 494 - 494"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 496 - 496"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:height",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 499 - 499"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 505 - 505"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 508 - 508"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 510 - 510"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:width",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 513 - 513"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 541 - 541"
+  },
+  {
+    "left": "ID:scrollInertia",
+    "right": "LIT:17",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 564 - 564"
+  },
+  {
+    "left": "ID:to",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 583 - 583"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 583 - 583"
+  },
+  {
+    "left": "ID:to",
+    "right": "LIT:null",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 588 - 588"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 588 - 588"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 686 - 686"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 687 - 687"
+  },
+  {
+    "left": "LIT:.mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 688 - 688"
+  },
+  {
+    "left": "ID:pluginNS",
+    "right": "LIT: _",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 706 - 706"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 731 - 731"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 753 - 753"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:xy",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 753 - 753"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:auto",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 753 - 753"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 753 - 753"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:horizontal",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 753 - 753"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 760 - 760"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:pixels",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 760 - 760"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:step",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 760 - 760"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:click",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 760 - 760"
+  },
+  {
+    "left": "LIT:<div id='mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 769 - 769"
+  },
+  {
+    "left": "LIT:<div id='mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 769 - 769"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 770 - 770"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 770 - 770"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 771 - 771"
+  },
+  {
+    "left": "ID:scrollbar",
+    "right": "ID:scrollbar",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 771 - 771"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 771 - 771"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 772 - 772"
+  },
+  {
+    "left": "LIT:<div id='mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 772 - 772"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 774 - 774"
+  },
+  {
+    "left": "ID:langDir",
+    "right": "LIT:rtl",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 774 - 774"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 777 - 777"
+  },
+  {
+    "left": "ID:langDir",
+    "right": "LIT:rtl",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 777 - 777"
+  },
+  {
+    "left": "ID:pluginNS",
+    "right": "LIT: _",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 778 - 778"
+  },
+  {
+    "left": "LIT:<div id='mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 778 - 778"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 779 - 779"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 780 - 780"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 781 - 781"
+  },
+  {
+    "left": "ID:scrollbarPosition",
+    "right": "LIT:outside",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 784 - 784"
+  },
+  {
+    "left": "ID:css",
+    "right": "LIT:static",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 785 - 785"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 796 - 796"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 796 - 796"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 813 - 813"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 814 - 814"
+  },
+  {
+    "left": "ID:ceil",
+    "right": "ID:floor",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1131.js : 827 - 827"
+  },
+  {
+    "left": "ID:right",
+    "right": "LIT:0.4",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 827 - 827"
+  },
+  {
+    "left": "LIT:.mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 838 - 838"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 843 - 843"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 843 - 843"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 854 - 854"
+  },
+  {
+    "left": "ID:mh",
+    "right": "LIT:none",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 857 - 857"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:parseInt",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 858 - 858"
+  },
+  {
+    "left": "ID:bs",
+    "right": "LIT:border-box",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 860 - 860"
+  },
+  {
+    "left": "ID:innerHeight",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 860 - 860"
+  },
+  {
+    "left": "ID:outerHeight",
+    "right": "ID:innerHeight",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 860 - 860"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 870 - 870"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 871 - 871"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 872 - 872"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 872 - 872"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:outerHeight",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 873 - 873"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 873 - 873"
+  },
+  {
+    "left": "ID:ratio",
+    "right": "ID:height",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 875 - 875"
+  },
+  {
+    "left": "ID:ratio",
+    "right": "ID:width",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 876 - 876"
+  },
+  {
+    "left": "ID:l",
+    "right": "ID:l",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 878 - 878"
+  },
+  {
+    "left": "ID:l",
+    "right": "ID:l",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 878 - 878"
+  },
+  {
+    "left": "ID:height",
+    "right": "LIT:10",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1131.js : 880 - 880"
+  },
+  {
+    "left": "ID:l",
+    "right": "LIT:px",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1131.js : 881 - 881"
+  },
+  {
+    "left": "ID:width",
+    "right": "LIT:10",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "Property",
+    "grandParent": "ObjectExpression",
+    "src": "data/js/programs_50/file1131.js : 883 - 883"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 892 - 892"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 893 - 893"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 894 - 894"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 894 - 894"
+  },
+  {
+    "left": "ID:outerHeight",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 895 - 895"
+  },
+  {
+    "left": "ID:outerWidth",
+    "right": "ID:width",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 895 - 895"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 897 - 897"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:width",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 898 - 898"
+  },
+  {
+    "left": "ID:action",
+    "right": "LIT:active",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 909 - 909"
+  },
+  {
+    "left": "ID:classes",
+    "right": "LIT: ",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 910 - 910"
+  },
+  {
+    "left": "ID:action",
+    "right": "LIT:hide",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 914 - 914"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 928 - 928"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 929 - 929"
+  },
+  {
+    "left": "ID:overflowed",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 930 - 930"
+  },
+  {
+    "left": "ID:overflowed",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 931 - 931"
+  },
+  {
+    "left": "ID:contentHeight",
+    "right": "ID:height",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 932 - 932"
+  },
+  {
+    "left": "ID:contentWidth",
+    "right": "ID:width",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 932 - 932"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 940 - 940"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 941 - 941"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 942 - 942"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 942 - 942"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 944 - 944"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 944 - 944"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 945 - 945"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 945 - 945"
+  },
+  {
+    "left": "ID:langDir",
+    "right": "LIT:rtl",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 947 - 947"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 948 - 948"
+  },
+  {
+    "left": "ID:cx",
+    "right": "ID:x",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 949 - 949"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 992 - 992"
+  },
+  {
+    "left": "LIT:.mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 993 - 993"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 994 - 994"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 995 - 995"
+  },
+  {
+    "left": "LIT:.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 998 - 998"
+  },
+  {
+    "left": "LIT:.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1000 - 1000"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1015 - 1015"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1016 - 1016"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1017 - 1017"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1017 - 1017"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1019 - 1019"
+  },
+  {
+    "left": "ID:alwaysShowScrollbar",
+    "right": "LIT:2",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1025 - 1025"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1034 - 1034"
+  },
+  {
+    "left": "ID:alwaysShowScrollbar",
+    "right": "LIT:2",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1040 - 1040"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1082 - 1082"
+  },
+  {
+    "left": "LIT:mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1083 - 1083"
+  },
+  {
+    "left": "LIT:mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1083 - 1083"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1084 - 1084"
+  },
+  {
+    "left": "LIT:#",
+    "right": "ID:draggerId",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1085 - 1085"
+  },
+  {
+    "left": "LIT:mousedown.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1087 - 1087"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1096 - 1096"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1096 - 1096"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:top",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1097 - 1097"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:left",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1097 - 1097"
+  },
+  {
+    "left": "ID:y",
+    "right": "ID:h",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1098 - 1098"
+  },
+  {
+    "left": "ID:y",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1098 - 1098"
+  },
+  {
+    "left": "ID:x",
+    "right": "ID:w",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1098 - 1098"
+  },
+  {
+    "left": "ID:x",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1098 - 1098"
+  },
+  {
+    "left": "LIT:touchmove.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1103 - 1103"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1106 - 1106"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1106 - 1106"
+  },
+  {
+    "left": "LIT:mousemove.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1109 - 1109"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1111 - 1111"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1111 - 1111"
+  },
+  {
+    "left": "ID:dragY",
+    "right": "ID:y",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1112 - 1112"
+  },
+  {
+    "left": "LIT:mouseup.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1115 - 1115"
+  },
+  {
+    "left": "ID:scrollInertia",
+    "right": "LIT:233",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1131 - 1131"
+  },
+  {
+    "left": "ID:attr",
+    "right": "ID:draggerId",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1132 - 1132"
+  },
+  {
+    "left": "ID:offsetLeft",
+    "right": "ID:dragX",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1133 - 1133"
+  },
+  {
+    "left": "ID:offsetTop",
+    "right": "ID:dragY",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1135 - 1135"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1150 - 1150"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1151 - 1151"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1152 - 1152"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1153 - 1153"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1153 - 1153"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1155 - 1155"
+  },
+  {
+    "left": "LIT:touchstart.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1156 - 1156"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1159 - 1159"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1160 - 1160"
+  },
+  {
+    "left": "LIT:touchmove.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1161 - 1161"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1165 - 1165"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1165 - 1165"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1170 - 1170"
+  },
+  {
+    "left": "ID:dragY",
+    "right": "ID:y",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1171 - 1171"
+  },
+  {
+    "left": "ID:y",
+    "right": "ID:dragY",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1171 - 1171"
+  },
+  {
+    "left": "ID:limit",
+    "right": "ID:y",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "UnaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1171 - 1171"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:width",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1174 - 1174"
+  },
+  {
+    "left": "ID:dragX",
+    "right": "ID:x",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1175 - 1175"
+  },
+  {
+    "left": "ID:x",
+    "right": "ID:dragX",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1175 - 1175"
+  },
+  {
+    "left": "ID:limitX",
+    "right": "ID:x",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "UnaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1175 - 1175"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "ID:dragY",
+    "right": "ID:y",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "ID:dragX",
+    "right": "ID:x",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "ID:dragX",
+    "right": "ID:x",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "ID:dragY",
+    "right": "ID:y",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1178 - 1178"
+  },
+  {
+    "left": "LIT:touchstart.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1183 - 1183"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1189 - 1189"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1190 - 1190"
+  },
+  {
+    "left": "LIT:touchend.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1192 - 1192"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1196 - 1196"
+  },
+  {
+    "left": "ID:_coordinates",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1196 - 1196"
+  },
+  {
+    "left": "ID:endTime",
+    "right": "ID:runningTime",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1197 - 1197"
+  },
+  {
+    "left": "ID:endTime",
+    "right": "ID:startTime",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1198 - 1198"
+  },
+  {
+    "left": "ID:speed",
+    "right": "LIT:2.5",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1199 - 1199"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:2",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "MemberExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1200 - 1200"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:2",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "MemberExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1200 - 1200"
+  },
+  {
+    "left": "ID:y",
+    "right": "ID:diff",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1201 - 1201"
+  },
+  {
+    "left": "ID:x",
+    "right": "ID:diff",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1201 - 1201"
+  },
+  {
+    "left": "ID:y",
+    "right": "ID:touchStartY",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1201 - 1201"
+  },
+  {
+    "left": "ID:x",
+    "right": "ID:touchStartX",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1201 - 1201"
+  },
+  {
+    "left": "ID:distance",
+    "right": "LIT:4",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1203 - 1203"
+  },
+  {
+    "left": "ID:distance",
+    "right": "LIT:4",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1203 - 1203"
+  },
+  {
+    "left": "ID:distance",
+    "right": "ID:_m",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1205 - 1205"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "ID:speed",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1205 - 1205"
+  },
+  {
+    "left": "ID:distance",
+    "right": "ID:_m",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1206 - 1206"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "ID:speed",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1206 - 1206"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1208 - 1208"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1208 - 1208"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "LIT:4",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1209 - 1209"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "LIT:4",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1209 - 1209"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "ID:md",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1211 - 1211"
+  },
+  {
+    "left": "ID:absDistance",
+    "right": "ID:md",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1212 - 1212"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:1.5",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1217 - 1217"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:2",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1217 - 1217"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:1.5",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1217 - 1217"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1217 - 1217"
+  },
+  {
+    "left": "ID:ds",
+    "right": "LIT:90",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1218 - 1218"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:4",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1219 - 1219"
+  },
+  {
+    "left": "ID:ds",
+    "right": "LIT:60",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1220 - 1220"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:3",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1221 - 1221"
+  },
+  {
+    "left": "ID:ds",
+    "right": "LIT:30",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1222 - 1222"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:8",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1223 - 1223"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:6",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1223 - 1223"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:4",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1223 - 1223"
+  },
+  {
+    "left": "ID:s",
+    "right": "LIT:8",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1225 - 1225"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1243 - 1243"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1244 - 1244"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1245 - 1245"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1245 - 1245"
+  },
+  {
+    "left": "LIT:mousewheel.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1246 - 1246"
+  },
+  {
+    "left": "ID:deltaFactor",
+    "right": "LIT:auto",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1248 - 1248"
+  },
+  {
+    "left": "ID:deltaFactor",
+    "right": "LIT:100",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1248 - 1248"
+  },
+  {
+    "left": "ID:deltaFactor",
+    "right": "LIT:40",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1248 - 1248"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1249 - 1249"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1249 - 1249"
+  },
+  {
+    "left": "ID:deltaFactor",
+    "right": "ID:x",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1251 - 1251"
+  },
+  {
+    "left": "ID:scrollAmount",
+    "right": "LIT:auto",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1252 - 1252"
+  },
+  {
+    "left": "ID:px",
+    "right": "ID:width",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1252 - 1252"
+  },
+  {
+    "left": "ID:width",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1252 - 1252"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1253 - 1253"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:width",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1255 - 1255"
+  },
+  {
+    "left": "ID:deltaFactor",
+    "right": "ID:y",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1259 - 1259"
+  },
+  {
+    "left": "ID:scrollAmount",
+    "right": "LIT:auto",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1260 - 1260"
+  },
+  {
+    "left": "ID:px",
+    "right": "ID:height",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1260 - 1260"
+  },
+  {
+    "left": "ID:height",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1260 - 1260"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1261 - 1261"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1263 - 1263"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:y",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1266 - 1266"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1266 - 1266"
+  },
+  {
+    "left": "ID:dlt",
+    "right": "LIT:0",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1268 - 1268"
+  },
+  {
+    "left": "ID:dlt",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1269 - 1269"
+  },
+  {
+    "left": "ID:draggerPos",
+    "right": "LIT:0",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1269 - 1269"
+  },
+  {
+    "left": "ID:dlt",
+    "right": "LIT:0",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1269 - 1269"
+  },
+  {
+    "left": "ID:draggerPos",
+    "right": "ID:limit",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1269 - 1269"
+  },
+  {
+    "left": "ID:dlt",
+    "right": "ID:amount",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "MemberExpression",
+    "src": "data/js/programs_50/file1131.js : 1273 - 1273"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1285 - 1285"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1286 - 1286"
+  },
+  {
+    "left": "LIT:.mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1288 - 1288"
+  },
+  {
+    "left": "LIT:touchstart.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1289 - 1289"
+  },
+  {
+    "left": "LIT:touchend.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1291 - 1291"
+  },
+  {
+    "left": "LIT:click.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1293 - 1293"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1297 - 1297"
+  },
+  {
+    "left": "ID:pageX",
+    "right": "ID:left",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1300 - 1300"
+  },
+  {
+    "left": "ID:width",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1301 - 1301"
+  },
+  {
+    "left": "ID:pageY",
+    "right": "ID:top",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1305 - 1305"
+  },
+  {
+    "left": "ID:height",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1306 - 1306"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1321 - 1321"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1322 - 1322"
+  },
+  {
+    "left": "LIT:focusin.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1324 - 1324"
+  },
+  {
+    "left": "ID:dur",
+    "right": "LIT:17",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1331 - 1331"
+  },
+  {
+    "left": "ID:top",
+    "right": "ID:top",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1333 - 1333"
+  },
+  {
+    "left": "ID:left",
+    "right": "ID:left",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1333 - 1333"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:to",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1336 - 1336"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:to",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1336 - 1336"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:outerHeight",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1336 - 1336"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:to",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1337 - 1337"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:to",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1337 - 1337"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1337 - 1337"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1339 - 1339"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1340 - 1340"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1343 - 1343"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1355 - 1355"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1356 - 1356"
+  },
+  {
+    "left": "LIT:scroll.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1357 - 1357"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1370 - 1370"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1371 - 1371"
+  },
+  {
+    "left": "LIT:.mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1372 - 1372"
+  },
+  {
+    "left": "ID:sel",
+    "right": "LIT:>a",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1373 - 1373"
+  },
+  {
+    "left": "LIT:mousedown.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1374 - 1374"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1381 - 1381"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1388 - 1388"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1393 - 1393"
+  },
+  {
+    "left": "ID:pluginPfx",
+    "right": "LIT:_",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "BinaryExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1413 - 1413"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1414 - 1414"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1415 - 1415"
+  },
+  {
+    "left": "LIT:blur.",
+    "right": "ID:namespace",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1418 - 1418"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:38",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:40",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:37",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:39",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1425 - 1425"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:38",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1427 - 1427"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:40",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1427 - 1427"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:37",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1427 - 1427"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:39",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1427 - 1427"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:keyup",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1428 - 1428"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:33",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1434 - 1434"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:34",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1434 - 1434"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:keyup",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1440 - 1440"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:34",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1442 - 1442"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1443 - 1443"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1443 - 1443"
+  },
+  {
+    "left": "ID:width",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1444 - 1444"
+  },
+  {
+    "left": "ID:height",
+    "right": "LIT:0.9",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1446 - 1446"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:35",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1450 - 1450"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:36",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1450 - 1450"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:keyup",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1457 - 1457"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1458 - 1458"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1458 - 1458"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:35",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1459 - 1459"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1459 - 1459"
+  },
+  {
+    "left": "ID:code",
+    "right": "LIT:35",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1461 - 1461"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:outerHeight",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1461 - 1461"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1472 - 1472"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1483 - 1483"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1484 - 1484"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:mCSB_buttonRight",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1488 - 1488"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:mCSB_buttonLeft",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1488 - 1488"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:39",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1488 - 1488"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:37",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1488 - 1488"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:mCSB_buttonUp",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1489 - 1489"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:mCSB_buttonLeft",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1489 - 1489"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:38",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1489 - 1489"
+  },
+  {
+    "left": "ID:trigger",
+    "right": "LIT:37",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1489 - 1489"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1492 - 1492"
+  },
+  {
+    "left": "ID:type",
+    "right": "LIT:stepped",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1504 - 1504"
+  },
+  {
+    "left": "LIT:1000",
+    "right": "LIT:60",
+    "op": "/",
+    "leftType": "number",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1505 - 1505"
+  },
+  {
+    "left": "ID:scrollInertia",
+    "right": "LIT:1.5",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1505 - 1505"
+  },
+  {
+    "left": "ID:y",
+    "right": "LIT:10",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1508 - 1508"
+  },
+  {
+    "left": "ID:x",
+    "right": "LIT:10",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ArrayExpression",
+    "src": "data/js/programs_50/file1131.js : 1508 - 1508"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1509 - 1509"
+  },
+  {
+    "left": "ID:ratio",
+    "right": "ID:m",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1509 - 1509"
+  },
+  {
+    "left": "ID:ratio",
+    "right": "ID:m",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1509 - 1509"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1510 - 1510"
+  },
+  {
+    "left": "ID:dir",
+    "right": "ID:parseInt",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1510 - 1510"
+  },
+  {
+    "left": "ID:dir",
+    "right": "ID:parseInt",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1510 - 1510"
+  },
+  {
+    "left": "ID:scrollAmount",
+    "right": "LIT:auto",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1511 - 1511"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:17",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1514 - 1514"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1515 - 1515"
+  },
+  {
+    "left": "ID:val",
+    "right": "ID:Array",
+    "op": "instanceof",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "UnaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1541 - 1541"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1542 - 1542"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:y",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1543 - 1543"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:1",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1545 - 1545"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1545 - 1545"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1557 - 1557"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1559 - 1559"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1562 - 1562"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1563 - 1563"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1564 - 1564"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1565 - 1565"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1566 - 1566"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1573 - 1573"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1576 - 1576"
+  },
+  {
+    "left": "ID:objOffset",
+    "right": "ID:contentOffset",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ReturnStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1578 - 1578"
+  },
+  {
+    "left": "ID:contentLength",
+    "right": "ID:parseInt",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1584 - 1584"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:parseInt",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1586 - 1586"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:parseInt",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1588 - 1588"
+  },
+  {
+    "left": "ID:p",
+    "right": "LIT:0",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1589 - 1589"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:top",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1593 - 1593"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:left",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1593 - 1593"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:bottom",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1595 - 1595"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:outerHeight",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1596 - 1596"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:right",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1597 - 1597"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1598 - 1598"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:first",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1599 - 1599"
+  },
+  {
+    "left": "ID:val",
+    "right": "LIT:last",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1599 - 1599"
+  },
+  {
+    "left": "LIT::",
+    "right": "ID:val",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1600 - 1600"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1601 - 1601"
+  },
+  {
+    "left": "ID:objOffset",
+    "right": "ID:contentOffset",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1602 - 1602"
+  },
+  {
+    "left": "ID:dir",
+    "right": "LIT:x",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1605 - 1605"
+  },
+  {
+    "left": "ID:objOffset",
+    "right": "ID:contentOffset",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ReturnStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1606 - 1606"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1623 - 1623"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1634 - 1634"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1634 - 1634"
+  },
+  {
+    "left": "ID:newSelSize",
+    "right": "ID:oldSelSize",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1649 - 1649"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:ns",
+    "right": "ID:os",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1658 - 1658"
+  },
+  {
+    "left": "ID:newImgsLen",
+    "right": "ID:oldImgsLen",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1666 - 1666"
+  },
+  {
+    "left": "ID:updateOnSelectorChange",
+    "right": "LIT:true",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "boolean",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1697 - 1697"
+  },
+  {
+    "left": "ID:length",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1699 - 1699"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:width",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1699 - 1699"
+  },
+  {
+    "left": "ID:round",
+    "right": "ID:amount",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1713 - 1713"
+  },
+  {
+    "left": "ID:to",
+    "right": "ID:amount",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1713 - 1713"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1721 - 1721"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "CallExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1749 - 1749"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1750 - 1750"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1757 - 1757"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:outerWidth",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1761 - 1761"
+  },
+  {
+    "left": "ID:width",
+    "right": "ID:width",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1762 - 1762"
+  },
+  {
+    "left": "ID:to",
+    "right": "ID:x",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1764 - 1764"
+  },
+  {
+    "left": "ID:tso",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1767 - 1767"
+  },
+  {
+    "left": "ID:tso",
+    "right": "ID:x",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1767 - 1767"
+  },
+  {
+    "left": "ID:tsbo",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1768 - 1768"
+  },
+  {
+    "left": "ID:tsbo",
+    "right": "ID:x",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1768 - 1768"
+  },
+  {
+    "left": "LIT:#mCSB_",
+    "right": "ID:idx",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1771 - 1771"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:outerHeight",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1775 - 1775"
+  },
+  {
+    "left": "ID:height",
+    "right": "ID:height",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1776 - 1776"
+  },
+  {
+    "left": "ID:to",
+    "right": "ID:y",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ArrayExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1778 - 1778"
+  },
+  {
+    "left": "ID:tso",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1781 - 1781"
+  },
+  {
+    "left": "ID:tso",
+    "right": "ID:y",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1781 - 1781"
+  },
+  {
+    "left": "ID:tsbo",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1782 - 1782"
+  },
+  {
+    "left": "ID:tsbo",
+    "right": "ID:y",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 1782 - 1782"
+  },
+  {
+    "left": "ID:scrollTo",
+    "right": "LIT:0",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1785 - 1785"
+  },
+  {
+    "left": "ID:scrollTo",
+    "right": "ID:limit",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1787 - 1787"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "LIT:0",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1793 - 1793"
+  },
+  {
+    "left": "ID:scrollTo",
+    "right": "LIT:0",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1793 - 1793"
+  },
+  {
+    "left": "ID:contentPos",
+    "right": "ID:limit",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1793 - 1793"
+  },
+  {
+    "left": "ID:scrollTo",
+    "right": "ID:limit",
+    "op": "<=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1793 - 1793"
+  },
+  {
+    "left": "ID:axis",
+    "right": "LIT:yx",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1811 - 1811"
+  },
+  {
+    "left": "ID:limit",
+    "right": "ID:totalScrollOffset",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1816 - 1816"
+  },
+  {
+    "left": "ID:scrollTo",
+    "right": "ID:totalScrollBackOffset",
+    "op": "<=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1817 - 1817"
+  },
+  {
+    "left": "ID:limit",
+    "right": "ID:tso",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1831 - 1831"
+  },
+  {
+    "left": "LIT:100",
+    "right": "ID:abs",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1853 - 1853"
+  },
+  {
+    "left": "ID:abs",
+    "right": "ID:pl",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1853 - 1853"
+  },
+  {
+    "left": "LIT:100",
+    "right": "ID:abs",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1853 - 1853"
+  },
+  {
+    "left": "ID:abs",
+    "right": "ID:pl",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1853 - 1853"
+  },
+  {
+    "left": "ID:prop",
+    "right": "LIT:left",
+    "op": "===",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1874 - 1874"
+  },
+  {
+    "left": "ID:to",
+    "right": "ID:from",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1875 - 1875"
+  },
+  {
+    "left": "ID:overwrite",
+    "right": "LIT:none",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1877 - 1877"
+  },
+  {
+    "left": "ID:_getTime",
+    "right": "ID:startTime",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1882 - 1882"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_mcstime",
+    "op": ">=",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1884 - 1884"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_mcstime",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "AssignmentExpression",
+    "src": "data/js/programs_50/file1131.js : 1885 - 1885"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_delay",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1885 - 1885"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_mcstime",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1885 - 1885"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_delay",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ConditionalExpression",
+    "src": "data/js/programs_50/file1131.js : 1885 - 1885"
+  },
+  {
+    "left": "ID:progress",
+    "right": "LIT:1",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1886 - 1886"
+  },
+  {
+    "left": "ID:progress",
+    "right": "LIT:1",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1886 - 1886"
+  },
+  {
+    "left": "ID:_mcstime",
+    "right": "ID:duration",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1888 - 1888"
+  },
+  {
+    "left": "ID:duration",
+    "right": "LIT:0",
+    "op": ">",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1891 - 1891"
+  },
+  {
+    "left": "ID:round",
+    "right": "LIT:px",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1893 - 1893"
+  },
+  {
+    "left": "ID:to",
+    "right": "LIT:px",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1895 - 1895"
+  },
+  {
+    "left": "LIT:1000",
+    "right": "LIT:60",
+    "op": "/",
+    "leftType": "number",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1900 - 1900"
+  },
+  {
+    "left": "ID:progress",
+    "right": "ID:_delay",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1901 - 1901"
+  },
+  {
+    "left": "ID:_mcsid",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1906 - 1906"
+  },
+  {
+    "left": "ID:c",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1914 - 1914"
+  },
+  {
+    "left": "ID:c",
+    "right": "ID:sqrt",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "ReturnStatement",
+    "src": "data/js/programs_50/file1131.js : 1917 - 1917"
+  },
+  {
+    "left": "ID:t",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1917 - 1917"
+  },
+  {
+    "left": "ID:d",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1920 - 1920"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1921 - 1921"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1921 - 1921"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:2",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1923 - 1923"
+  },
+  {
+    "left": "ID:d",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1926 - 1926"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1927 - 1927"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1927 - 1927"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:1",
+    "op": "-",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 1927 - 1927"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1929 - 1929"
+  },
+  {
+    "left": "ID:d",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1131.js : 1932 - 1932"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:1",
+    "op": "<",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "IfStatement",
+    "grandParent": "SwitchCase",
+    "src": "data/js/programs_50/file1131.js : 1933 - 1933"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1933 - 1933"
+  },
+  {
+    "left": "ID:c",
+    "right": "LIT:2",
+    "op": "/",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1935 - 1935"
+  },
+  {
+    "left": "ID:t",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1935 - 1935"
+  },
+  {
+    "left": "ID:t",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1939 - 1939"
+  },
+  {
+    "left": "ID:ts",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "unknown",
+    "rightType": "unknown",
+    "parent": "VariableDeclarator",
+    "grandParent": "VariableDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1945 - 1945"
+  },
+  {
+    "left": "LIT:0.499999999999997",
+    "right": "ID:tc",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1946 - 1946"
+  },
+  {
+    "left": "LIT:5.5",
+    "right": "ID:tc",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1946 - 1946"
+  },
+  {
+    "left": "LIT:4",
+    "right": "ID:t",
+    "op": "*",
+    "leftType": "number",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1946 - 1946"
+  },
+  {
+    "left": "ID:_mcsid",
+    "right": "LIT:null",
+    "op": "==",
+    "leftType": "unknown",
+    "rightType": "null",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1131.js : 1971 - 1971"
+  },
+  {
+    "left": "ID:which",
+    "right": "LIT:1",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "UnaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1989 - 1989"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:touch",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "LogicalExpression",
+    "grandParent": "LogicalExpression",
+    "src": "data/js/programs_50/file1131.js : 1997 - 1997"
+  },
+  {
+    "left": "ID:t",
+    "right": "LIT:2",
+    "op": "!==",
+    "leftType": "unknown",
+    "rightType": "number",
+    "parent": "LogicalExpression",
+    "grandParent": "UnaryExpression",
+    "src": "data/js/programs_50/file1131.js : 1997 - 1997"
+  },
+  {
+    "left": "LIT:https:",
+    "right": "ID:protocol",
+    "op": "==",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "ConditionalExpression",
+    "grandParent": "VariableDeclarator",
+    "src": "data/js/programs_50/file1131.js : 2021 - 2021"
+  },
+  {
+    "left": "LIT:%3Cscript src=",
+    "right": "ID:_dlp",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 2023 - 2023"
+  },
+  {
+    "left": "LIT:Method ",
+    "right": "ID:method",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 2032 - 2032"
+  },
+  {
+    "left": "LIT:Method ",
+    "right": "ID:method",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "CallExpression",
+    "src": "data/js/programs_50/file1131.js : 2041 - 2041"
+  },
+  {
+    "left": "ID:rootContextPath",
+    "right": "LIT:/images/terminator-450.png",
+    "op": "+",
+    "leftType": "unknown",
+    "rightType": "string",
+    "parent": "AssignmentExpression",
+    "grandParent": "ExpressionStatement",
+    "src": "data/js/programs_50/file1135.js : 19 - 19"
+  },
+  {
+    "left": "LIT:<div class=\"aprilfools\"><figure class=\"image\"><img src=\"",
+    "right": "ID:imagePath",
+    "op": "+",
+    "leftType": "string",
+    "rightType": "unknown",
+    "parent": "BinaryExpression",
+    "grandParent": "BinaryExpression",
+    "src": "data/js/programs_50/file1135.js : 23 - 23"
+  }
+]

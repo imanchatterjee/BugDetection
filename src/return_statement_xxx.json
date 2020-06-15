@@ -1,0 +1,744 @@
+[
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 66 - 66"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 95 - 95"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 127 - 127"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 169 - 169"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 198 - 198"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createAPIRequest",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1084.js : 240 - 240"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1093.js : 62 - 62"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:subarray",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 116 - 116"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:arr",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1093.js : 118 - 118"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:join",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1093.js : 129 - 129"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1093.js : 134 - 134"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 158 - 161"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 167 - 170"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 175 - 181"
+  },
+  {
+    "return_type": "string",
+    "return_name": "LIT:+",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 178 - 178"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:decode",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 180 - 180"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 189 - 193"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 198 - 204"
+  },
+  {
+    "return_type": "string",
+    "return_name": "LIT:&",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1093.js : 201 - 201"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:decode",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1093.js : 203 - 203"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:DateTime",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1094.js : 56 - 56"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:format",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1096.js : 14 - 14"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:configuration",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1097.js : 26 - 26"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:configuration",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1097.js : 31 - 31"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:_entityType",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 37 - 37"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 63 - 63"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 137 - 137"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 178 - 178"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 211 - 211"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 238 - 238"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 274 - 274"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 327 - 327"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:promise",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1103.js : 381 - 381"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:json",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1103.js : 395 - 395"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:package",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1117.js : 43 - 52"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:getPluralCategory",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1117.js : 45 - 50"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:getCount",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 146 - 146"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:request",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 199 - 199"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:handleComplete_",
+    "parent": "SwitchCase",
+    "grandParent": "SwitchStatement",
+    "src": "data/js/programs_50/file1118.js : 288 - 288"
+  },
+  {
+    "return_type": "null",
+    "return_name": "LIT:null",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 304 - 304"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:call",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1118.js : 361 - 361"
+  },
+  {
+    "return_type": "null",
+    "return_name": "LIT:null",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 365 - 365"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:url_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 634 - 634"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:method_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 643 - 643"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:content_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 652 - 652"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:headers_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 661 - 661"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:maxRetries_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 670 - 670"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:attemptCount_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 679 - 679"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:completed_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 715 - 715"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:aborted_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 733 - 733"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:xhrEventCallback_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 743 - 743"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:completeCallback_",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1118.js : 752 - 752"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:retval",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 236 - 236"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:call",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 245 - 245"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:call",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 249 - 249"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:call",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 260 - 260"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:call",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 264 - 264"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1120.js : 268 - 268"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:replace",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1120.js : 272 - 272"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:join",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1120.js : 305 - 305"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:true",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 420 - 420"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:false",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1120.js : 424 - 424"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:true",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 428 - 428"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 431 - 431"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:true",
+    "parent": "IfStatement",
+    "grandParent": "BlockStatement",
+    "src": "data/js/programs_50/file1120.js : 591 - 591"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1120.js : 594 - 594"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:names",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1121.js : 122 - 122"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:join",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1121.js : 339 - 339"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:div",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1126.js : 54 - 54"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:div",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1126.js : 113 - 113"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:mesh",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1129.js : 94 - 94"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:QuadController",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1129.js : 134 - 134"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createStateSetter",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1130.js : 88 - 88"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:createStateKeySetter",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1130.js : 107 - 107"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 395 - 436"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 454 - 524"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 545 - 597"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 614 - 624"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 642 - 662"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:each",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 679 - 710"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 805 - 805"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:outerWidth",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 805 - 805"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:false",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 1092 - 1092"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:vals",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 1550 - 1550"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:val",
+    "parent": "SwitchCase",
+    "grandParent": "SwitchStatement",
+    "src": "data/js/programs_50/file1131.js : 1569 - 1569"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1582 - 1582"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1584 - 1584"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1586 - 1586"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1591 - 1591"
+  },
+  {
+    "return_type": "number",
+    "return_name": "LIT:0",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1594 - 1594"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1596 - 1596"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:abs",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1598 - 1598"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:total",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1680 - 1680"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 1686 - 1686"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:total",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionDeclaration",
+    "src": "data/js/programs_50/file1131.js : 1700 - 1700"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:setTimeout",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1131.js : 1902 - 1902"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:now",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1956 - 1956"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:webkitNow",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1959 - 1959"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:now",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1961 - 1961"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:getTime",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 1961 - 1961"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 2028 - 2028"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 2030 - 2030"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 2037 - 2037"
+  },
+  {
+    "return_type": "unknown",
+    "return_name": "ID:apply",
+    "parent": "BlockStatement",
+    "grandParent": "IfStatement",
+    "src": "data/js/programs_50/file1131.js : 2039 - 2039"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:false",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1135.js : 42 - 42"
+  },
+  {
+    "return_type": "boolean",
+    "return_name": "LIT:false",
+    "parent": "BlockStatement",
+    "grandParent": "FunctionExpression",
+    "src": "data/js/programs_50/file1135.js : 48 - 48"
+  }
+]

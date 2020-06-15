@@ -1,0 +1,17 @@
+{
+  "name": "deepbugs-master",
+  "version": "1.0.0",
+  "description": "DeepBugs: Deep Learning to Find Bugs ====================================",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "estraverse": "^5.1.0",
+    "walk-sync": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
